@@ -1,0 +1,720 @@
+{
+ "generated_at": "2026-10-31 22:04:19 +0800",
+ "tool": "tools/bili_search.py",
+ "command": "python tools/bili_search.py --date <YYYY-MM-DD> [--title <hint>] --online always --top 8",
+ "catalog": {
+  "file": "tools/.cache/bili_index.json",
+  "built_at_iso": "2026-10-31 22:03:28",
+  "items": 1603,
+  "sources": {
+   "official_series_11073_407852": 554,
+   "compilation_BV1Gb4y1k7MX_parts": 589,
+   "hanser的aisaka_7521963": 204,
+   "爱爱爱丽丝__45449982": 100,
+   "中打码の゜_45471875": 100,
+   "Rayzggz_10501326": 56
+  }
+ },
+ "summary": {
+  "required_dates_tested": 3,
+  "expected_site_link_found": 3,
+  "expected_rank_1": 3,
+  "supplementary_probes": 3,
+  "probe_hits": 2
+ },
+ "results": [
+  {
+   "date": "2020-01-03",
+   "title_hint": "",
+   "expected_site_link": "https://www.bilibili.com/video/BV1HJ41157Kq",
+   "expected_bvid": "BV1HJ41157Kq",
+   "matched": true,
+   "rank_of_expected": 1,
+   "top_candidate_bvid": "BV1HJ41157Kq",
+   "run": {
+    "online_mode": "always",
+    "elapsed_sec": 0.2,
+    "candidates_returned": 8
+   },
+   "candidates": [
+    {
+     "rank": 1,
+     "bvid": "BV1HJ41157Kq",
+     "part": null,
+     "title": "【Hanser录播】20-1-3",
+     "author": "hanser的aisaka",
+     "mid": 7521963,
+     "pubdate_iso": "2020-01-08 01:31:53",
+     "duration": 14406,
+     "duration_hms": "4:00:06",
+     "score": 105,
+     "reasons": [
+      "title-date-exact",
+      "pub_delta_5d",
+      "up:hanser的aisaka",
+      "kw:录播",
+      "dur_plausible",
+      "catalog:space"
+     ],
+     "url": "https://www.bilibili.com/video/BV1HJ41157Kq"
+    },
+    {
+     "rank": 2,
+     "bvid": "BV1Gb4y1k7MX",
+     "part": 327,
+     "title": "【2020.1.3】上",
+     "author": "東方延續·HANSER直播合集",
+     "mid": 24076741,
+     "pubdate_iso": "",
+     "duration": 7203,
+     "duration_hms": "2:00:03",
+     "score": 91,
+     "reasons": [
+      "title-date-exact",
+      "up:東方延續·HANSER直播合集",
+      "dur_plausible",
+      "catalog:multipart"
+     ],
+     "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=327"
+    },
+    {
+     "rank": 3,
+     "bvid": "BV1Gb4y1k7MX",
+     "part": 328,
+     "title": "【2020.1.3】下",
+     "author": "東方延續·HANSER直播合集",
+     "mid": 24076741,
+     "pubdate_iso": "",
+     "duration": 7203,
+     "duration_hms": "2:00:03",
+     "score": 91,
+     "reasons": [
+      "title-date-exact",
+      "up:東方延續·HANSER直播合集",
+      "dur_plausible",
+      "catalog:multipart"
+     ],
+     "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=328"
+    },
+    {
+     "rank": 4,
+     "bvid": "BV1MJ411L7Nd",
+     "part": null,
+     "title": "『Hanser』2020年1月3号直播实录",
+     "author": "Hanser直播高能精剪",
+     "mid": 317478069,
+     "pubdate_iso": "2020-01-05 14:08:48",
+     "duration": 18780,
+     "duration_hms": "5:13:00",
+     "score": 82,
+     "reasons": [
+      "title-date-exact",
+      "pub_delta_2d",
+      "dur_plausible"
+     ],
+     "url": "https://www.bilibili.com/video/BV1MJ411L7Nd"
+    },
+    {
+     "rank": 5,
+     "bvid": "BV1nJ41157Qj",
+     "part": null,
+     "title": "【Hanser录播】20-1-6",
+     "author": "hanser的aisaka",
+     "mid": 7521963,
+     "pubdate_iso": "2020-01-08 01:45:26",
+     "duration": 14408,
+     "duration_hms": "4:00:08",
+     "score": 45,
+     "reasons": [
+      "pub_delta_5d",
+      "up:hanser的aisaka",
+      "kw:录播",
+      "dur_plausible",
+      "catalog:space"
+     ],
+     "url": "https://www.bilibili.com/video/BV1nJ41157Qj"
+    },
+    {
+     "rank": 6,
+     "bvid": "BV1HJ411572B",
+     "part": null,
+     "title": "【Hanser录播】20-1-2",
+     "author": "hanser的aisaka",
+     "mid": 7521963,
+     "pubdate_iso": "2020-01-08 01:27:16",
+     "duration": 7201,
+     "duration_hms": "2:00:01",
+     "score": 45,
+     "reasons": [
+      "pub_delta_5d",
+      "up:hanser的aisaka",
+      "kw:录播",
+      "dur_plausible",
+      "catalog:space"
+     ],
+     "url": "https://www.bilibili.com/video/BV1HJ411572B"
+    },
+    {
+     "rank": 7,
+     "bvid": "BV1JJ41157it",
+     "part": null,
+     "title": "【Hanser录播】19-12-27",
+     "author": "hanser的aisaka",
+     "mid": 7521963,
+     "pubdate_iso": "2020-01-08 01:26:24",
+     "duration": 14870,
+     "duration_hms": "4:07:50",
+     "score": 45,
+     "reasons": [
+      "pub_delta_5d",
+      "up:hanser的aisaka",
+      "kw:录播",
+      "dur_plausible",
+      "catalog:space"
+     ],
+     "url": "https://www.bilibili.com/video/BV1JJ41157it"
+    },
+    {
+     "rank": 8,
+     "bvid": "BV1JJ41157y5",
+     "part": null,
+     "title": "【Hanser录播】19-12-30",
+     "author": "hanser的aisaka",
+     "mid": 7521963,
+     "pubdate_iso": "2020-01-08 01:05:38",
+     "duration": 7203,
+     "duration_hms": "2:00:03",
+     "score": 45,
+     "reasons": [
+      "pub_delta_5d",
+      "up:hanser的aisaka",
+      "kw:录播",
+      "dur_plausible",
+      "catalog:space"
+     ],
+     "url": "https://www.bilibili.com/video/BV1JJ41157y5"
+    }
+   ],
+   "observations": "Matched at rank 1 (aisaka 【Hanser录播】20-1-3, 4h full recording). Alternate full copies exist in the 589-part compilation (P327 '上' + P328 '下'), and a same-day 高能精剪 sits at rank 4. Upload lag from stream day to Bilibili is 5 days for this fan account, so pubdate proximity alone would fail; date-in-title carries the match."
+  },
+  {
+   "date": "2026-10-26",
+   "title_hint": "冒汗电台",
+   "expected_site_link": "https://www.bilibili.com/video/BV13Bno6KE84",
+   "expected_bvid": "BV13Bno6KE84",
+   "matched": true,
+   "rank_of_expected": 1,
+   "top_candidate_bvid": "BV13Bno6KE84",
+   "run": {
+    "online_mode": "always",
+    "elapsed_sec": 0.3,
+    "candidates_returned": 8
+   },
+   "candidates": [
+    {
+     "rank": 1,
+     "bvid": "BV13Bno6KE84",
+     "part": null,
+     "title": "【直播回放】冒汗电台 2026年10月26日21点场",
+     "author": "hanser",
+     "mid": 11073,
+     "pubdate_iso": "2026-10-26 22:39:11",
+     "duration": 4923,
+     "duration_hms": "1:22:03",
+     "score": 150,
+     "reasons": [
+      "title-date-exact",
+      "pub_delta_0d",
+      "up:hanser (official)",
+      "kw:直播回放",
+      "title_hint",
+      "dur_plausible",
+      "catalog:series"
+     ],
+     "url": "https://www.bilibili.com/video/BV13Bno6KE84"
+    },
+    {
+     "rank": 2,
+     "bvid": "BV15ano6gEUW",
+     "part": null,
+     "title": "【直播回放】冒汗电台 2026年10月26日22点场",
+     "author": "hanser",
+     "mid": 11073,
+     "pubdate_iso": "2026-10-27 00:06:10",
+     "duration": 5139,
+     "duration_hms": "1:25:39",
+     "score": 142,
+     "reasons": [
+      "title-date-exact",
+      "pub_delta_1d",
+      "up:hanser (official)",
+      "kw:直播回放",
+      "title_hint",
+      "dur_plausible",
+      "catalog:series"
+     ],
+     "url": "https://www.bilibili.com/video/BV15ano6gEUW"
+    },
+    {
+     "rank": 3,
+     "bvid": "BV1GCnf66Enc",
+     "part": null,
+     "title": "[hanser&小缘喵 双视角汇总录播] 2026年10月26日 冒汗电台！",
+     "author": "吃枣的粽子",
+     "mid": 67175080,
+     "pubdate_iso": "2026-10-27 02:07:38",
+     "duration": 10525,
+     "duration_hms": "2:55:25",
+     "score": 111,
+     "reasons": [
+      "title-date-exact",
+      "pub_delta_1d",
+      "kw:录播",
+      "title_hint",
+      "dur_plausible"
+     ],
+     "url": "https://www.bilibili.com/video/BV1GCnf66Enc"
+    },
+    {
+     "rank": 4,
+     "bvid": "BV1EMHF6WE5d",
+     "part": null,
+     "title": "【hanser】直播录制-[冒汗电台]-2026年10月26日21点02分-48743",
+     "author": "南梦小铺",
+     "mid": 671291814,
+     "pubdate_iso": "2026-10-27 00:59:59",
+     "duration": 10043,
+     "duration_hms": "2:47:23",
+     "score": 111,
+     "reasons": [
+      "title-date-exact",
+      "pub_delta_1d",
+      "kw:直播录制",
+      "title_hint",
+      "dur_plausible"
+     ],
+     "url": "https://www.bilibili.com/video/BV1EMHF6WE5d"
+    },
+    {
+     "rank": 5,
+     "bvid": "BV1uGxT6BE9V",
+     "part": null,
+     "title": "【小缘/hanser】10月26日冒汗电台 双视角",
+     "author": "165的十深",
+     "mid": 111197335,
+     "pubdate_iso": "2026-10-27 10:20:58",
+     "duration": 10525,
+     "duration_hms": "2:55:25",
+     "score": 105,
+     "reasons": [
+      "title-date-exact",
+      "pub_delta_1d",
+      "kw:双视角",
+      "title_hint",
+      "dur_plausible"
+     ],
+     "url": "https://www.bilibili.com/video/BV1uGxT6BE9V"
+    },
+    {
+     "rank": 6,
+     "bvid": "BV1jjsX6zEAq",
+     "part": null,
+     "title": "【毛憨】冒汗电台-双视角直播全程",
+     "author": "贝克街的Queen",
+     "mid": 4297963,
+     "pubdate_iso": "2026-10-29 01:47:36",
+     "duration": 10540,
+     "duration_hms": "2:55:40",
+     "score": 93,
+     "reasons": [
+      "title-date-exact",
+      "pub_delta_3d",
+      "kw:双视角",
+      "title_hint",
+      "dur_plausible"
+     ],
+     "url": "https://www.bilibili.com/video/BV1jjsX6zEAq"
+    },
+    {
+     "rank": 7,
+     "bvid": "BV1UFxg6VE17",
+     "part": null,
+     "title": "【冒汗电台】小缘单人视角！",
+     "author": "hx-鸢尾",
+     "mid": 481994801,
+     "pubdate_iso": "2026-10-27 20:53:17",
+     "duration": 9261,
+     "duration_hms": "2:34:21",
+     "score": 43,
+     "reasons": [
+      "pub_delta_1d",
+      "title_hint",
+      "dur_plausible"
+     ],
+     "url": "https://www.bilibili.com/video/BV1UFxg6VE17"
+    },
+    {
+     "rank": 8,
+     "bvid": "BV1AxxT6fEe1",
+     "part": null,
+     "title": "【冒汗电台】hanser单人视角！",
+     "author": "hx-鸢尾",
+     "mid": 481994801,
+     "pubdate_iso": "2026-10-27 17:48:46",
+     "duration": 9183,
+     "duration_hms": "2:33:03",
+     "score": 43,
+     "reasons": [
+      "pub_delta_1d",
+      "title_hint",
+      "dur_plausible"
+     ],
+     "url": "https://www.bilibili.com/video/BV1AxxT6fEe1"
+    }
+   ],
+   "observations": "Matched at rank 1. Official upload splits the same livestream into 21点场 (site link, 82min) and 22点场 (139min) — both score 142+ and both are valid recordings of the night. Ranks 3-6 are fan dual-view/auto-recorder copies (吃枣的粽子, 南梦小铺, 165的十深, 贝克街的Queen)."
+  },
+  {
+   "date": "2026-10-07",
+   "title_hint": "",
+   "expected_site_link": "https://www.bilibili.com/video/BV1GFHy6qERm",
+   "expected_bvid": "BV1GFHy6qERm",
+   "matched": true,
+   "rank_of_expected": 1,
+   "top_candidate_bvid": "BV1GFHy6qERm",
+   "run": {
+    "online_mode": "always",
+    "elapsed_sec": 0.2,
+    "candidates_returned": 5
+   },
+   "candidates": [
+    {
+     "rank": 1,
+     "bvid": "BV1GFHy6qERm",
+     "part": null,
+     "title": "【直播回放】一起看花葱回放！ 2026年10月07日21点场",
+     "author": "hanser",
+     "mid": 11073,
+     "pubdate_iso": "2026-10-08 00:51:26",
+     "duration": 13140,
+     "duration_hms": "3:39:00",
+     "score": 127,
+     "reasons": [
+      "title-date-exact",
+      "pub_delta_1d",
+      "up:hanser (official)",
+      "kw:直播回放",
+      "dur_plausible",
+      "catalog:series"
+     ],
+     "url": "https://www.bilibili.com/video/BV1GFHy6qERm"
+    },
+    {
+     "rank": 2,
+     "bvid": "BV1xEHy6sEWi",
+     "part": null,
+     "title": "[hanser录播&歌切] 2026年10月07日 一起看花葱回放！",
+     "author": "吃枣的粽子",
+     "mid": 67175080,
+     "pubdate_iso": "2026-10-08 00:57:01",
+     "duration": 13397,
+     "duration_hms": "3:43:17",
+     "score": 96,
+     "reasons": [
+      "title-date-exact",
+      "pub_delta_1d",
+      "kw:录播",
+      "dur_plausible"
+     ],
+     "url": "https://www.bilibili.com/video/BV1xEHy6sEWi"
+    },
+    {
+     "rank": 3,
+     "bvid": "BV1r4a96KEfn",
+     "part": null,
+     "title": "hanser「花生与葱花」全程录像",
+     "author": "hanser",
+     "mid": 11073,
+     "pubdate_iso": "2026-10-03 19:00:00",
+     "duration": 8834,
+     "duration_hms": "2:27:14",
+     "score": 38,
+     "reasons": [
+      "pub_delta_4d",
+      "up:hanser (official)",
+      "dur_plausible"
+     ],
+     "url": "https://www.bilibili.com/video/BV1r4a96KEfn"
+    },
+    {
+     "rank": 4,
+     "bvid": "BV1aNHy6PEya",
+     "part": null,
+     "title": "hanser_2026_10_07_录播 （",
+     "author": "willy小黑",
+     "mid": 19361355,
+     "pubdate_iso": "2026-10-08 00:53:48",
+     "duration": 13088,
+     "duration_hms": "3:38:08",
+     "score": 36,
+     "reasons": [
+      "pub_delta_1d",
+      "kw:录播",
+      "dur_plausible"
+     ],
+     "url": "https://www.bilibili.com/video/BV1aNHy6PEya"
+    },
+    {
+     "rank": 5,
+     "bvid": "BV1ieWw6cEmu",
+     "part": null,
+     "title": "hanser 录音室版《NIGHT DANCER》Hi-Res 无损音质",
+     "author": "玄White",
+     "mid": 3546983509789102,
+     "pubdate_iso": "2026-10-13 17:36:16",
+     "duration": 211,
+     "duration_hms": "3:31",
+     "score": 3,
+     "reasons": [
+      "pub_delta_6d"
+     ],
+     "url": "https://www.bilibili.com/video/BV1ieWw6cEmu"
+    }
+   ],
+   "observations": "Matched at rank 1 with no title hint (title found was '【直播回放】一起看花葱回放！ 2026年10月07日21点场'). Rank 2 is a 歌切 (song-cut, partial). Only 5 plausible candidates: this date has fewer fan re-uploads."
+  }
+ ],
+ "supplementary_probes": [
+  {
+   "date": "2017-12-20",
+   "title_hint": "",
+   "expected_site_link": "(no site link; probe)",
+   "expected_bvid": "BV1aW41187p3",
+   "matched": true,
+   "rank_of_expected": 1,
+   "top_candidate_bvid": "BV1aW41187p3",
+   "run": {
+    "online_mode": "always",
+    "elapsed_sec": 0.3,
+    "candidates_returned": 6
+   },
+   "candidates": [
+    {
+     "rank": 1,
+     "bvid": "BV1aW41187p3",
+     "part": null,
+     "title": "【hanser】2017-12-20 直播录制",
+     "author": "Rayzggz",
+     "mid": 10501326,
+     "pubdate_iso": "2017-12-22 00:30:50",
+     "duration": 10843,
+     "duration_hms": "3:00:43",
+     "score": 113,
+     "reasons": [
+      "title-date-exact",
+      "pub_delta_2d",
+      "up:Rayzggz",
+      "kw:直播录制",
+      "dur_plausible",
+      "catalog:space"
+     ],
+     "url": "https://www.bilibili.com/video/BV1aW41187p3"
+    },
+    {
+     "rank": 2,
+     "bvid": "BV1Gb4y1k7MX",
+     "part": 30,
+     "title": "【2017.12.20】 斗地主啊",
+     "author": "東方延續·HANSER直播合集",
+     "mid": 24076741,
+     "pubdate_iso": "",
+     "duration": 7172,
+     "duration_hms": "1:59:32",
+     "score": 91,
+     "reasons": [
+      "title-date-exact",
+      "up:東方延續·HANSER直播合集",
+      "dur_plausible",
+      "catalog:multipart"
+     ],
+     "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=30"
+    },
+    {
+     "rank": 3,
+     "bvid": "BV1Gb4y1k7MX",
+     "part": 32,
+     "title": "【2017.12.20】 啊",
+     "author": "東方延續·HANSER直播合集",
+     "mid": 24076741,
+     "pubdate_iso": "",
+     "duration": 2587,
+     "duration_hms": "43:07",
+     "score": 91,
+     "reasons": [
+      "title-date-exact",
+      "up:東方延續·HANSER直播合集",
+      "dur_plausible",
+      "catalog:multipart"
+     ],
+     "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=32"
+    },
+    {
+     "rank": 4,
+     "bvid": "BV1Gb4y1k7MX",
+     "part": 31,
+     "title": "【2017.12.20】   斗地主啊",
+     "author": "東方延續·HANSER直播合集",
+     "mid": 24076741,
+     "pubdate_iso": "",
+     "duration": 1085,
+     "duration_hms": "18:05",
+     "score": 85,
+     "reasons": [
+      "title-date-exact",
+      "up:東方延續·HANSER直播合集",
+      "catalog:multipart"
+     ],
+     "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=31"
+    },
+    {
+     "rank": 5,
+     "bvid": "BV1GW41187kt",
+     "part": null,
+     "title": "【hanser】2017-12-15 直播录制",
+     "author": "Rayzggz",
+     "mid": 10501326,
+     "pubdate_iso": "2017-12-19 23:29:37",
+     "duration": 9362,
+     "duration_hms": "2:36:02",
+     "score": 59,
+     "reasons": [
+      "pub_delta_1d",
+      "up:Rayzggz",
+      "kw:直播录制",
+      "dur_plausible",
+      "catalog:space"
+     ],
+     "url": "https://www.bilibili.com/video/BV1GW41187kt"
+    },
+    {
+     "rank": 6,
+     "bvid": "BV1GW41187zp",
+     "part": null,
+     "title": "【hanser】2017-12-18/19 直播录制",
+     "author": "Rayzggz",
+     "mid": 10501326,
+     "pubdate_iso": "2017-12-19 23:23:29",
+     "duration": 7544,
+     "duration_hms": "2:05:44",
+     "score": 59,
+     "reasons": [
+      "pub_delta_1d",
+      "up:Rayzggz",
+      "kw:直播录制",
+      "dur_plausible",
+      "catalog:space"
+     ],
+     "url": "https://www.bilibili.com/video/BV1GW41187zp"
+    }
+   ],
+   "observations": "Old-era probe (Douyu period). Rank 1 = Rayzggz 【hanser】2017-12-20 直播录制, an account that isn't in the search index but is in the local catalog; rank 2/3 are the two parts of the same night in the 589-part compilation. Shows 2017 coverage works."
+  },
+  {
+   "date": "2018-12-31",
+   "title_hint": "",
+   "expected_site_link": "(no site link; probe)",
+   "expected_bvid": "BV1bt411B7ry",
+   "matched": true,
+   "rank_of_expected": 1,
+   "top_candidate_bvid": "BV1bt411B7ry",
+   "run": {
+    "online_mode": "always",
+    "elapsed_sec": 0.2,
+    "candidates_returned": 3
+   },
+   "candidates": [
+    {
+     "rank": 1,
+     "bvid": "BV1bt411B7ry",
+     "part": null,
+     "title": "【斗鱼·直播回放】hanser】2018拜拜～/2019哈咯～ 2018-12-31",
+     "author": "中打码の゜",
+     "mid": 45471875,
+     "pubdate_iso": "2019-01-01 16:34:51",
+     "duration": 15535,
+     "duration_hms": "4:18:55",
+     "score": 114,
+     "reasons": [
+      "title-date-exact",
+      "pub_delta_1d",
+      "up:中打码の゜",
+      "kw:直播回放",
+      "dur_plausible"
+     ],
+     "url": "https://www.bilibili.com/video/BV1bt411B7ry"
+    },
+    {
+     "rank": 2,
+     "bvid": "BV1at411B7T4",
+     "part": null,
+     "title": "【hanser直播录像2018.12.31跨年】恋人未满（awsl，甜到爆炸+口胡",
+     "author": "账号已注销",
+     "mid": 7955702,
+     "pubdate_iso": "2019-01-01 21:48:48",
+     "duration": 272,
+     "duration_hms": "4:32",
+     "score": 91,
+     "reasons": [
+      "title-date-exact",
+      "pub_delta_1d",
+      "kw:直播录像"
+     ],
+     "url": "https://www.bilibili.com/video/BV1at411B7T4"
+    },
+    {
+     "rank": 3,
+     "bvid": "BV1Gb4y1k7MX",
+     "part": 185,
+     "title": "【2018.12.31】大家说说2018的遗憾和收获",
+     "author": "東方延續·HANSER直播合集",
+     "mid": 24076741,
+     "pubdate_iso": "",
+     "duration": 15534,
+     "duration_hms": "4:18:54",
+     "score": 91,
+     "reasons": [
+      "title-date-exact",
+      "up:東方延續·HANSER直播合集",
+      "dur_plausible",
+      "catalog:multipart"
+     ],
+     "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=185"
+    }
+   ],
+   "observations": "Old-era probe: the winner (中打码の゜ 【斗鱼·直播回放】...2018-12-31) is NOT in the local catalog and was found only by the online search fallback; the 589-part compilation supplies another full copy at rank 3. Demonstrates the two-tier strategy."
+  },
+  {
+   "date": "2019-05-11",
+   "title_hint": "",
+   "expected_site_link": "(no site link; probe)",
+   "matched": false,
+   "rank_of_expected": null,
+   "top_candidate_bvid": null,
+   "run": {
+    "online_mode": "always",
+    "elapsed_sec": 0.2,
+    "candidates_returned": 0
+   },
+   "candidates": [],
+   "observations": "Zero candidates. 2019-05-11 was a Saturday and hanser's Douyu schedule was Mon/Wed/Fri, so there may have been no stream at all; an empty result is a legitimate outcome, not necessarily a tool failure. (Compare 2019-10: the catalog has no October 2019 parts either.)"
+  }
+ ],
+ "observations": [
+  "Cold run (empty cache) costs roughly 3-8 s per date with pacing >=1.5 s; with a warm local catalog and search cache a query takes ~0.2 s.",
+  "Official 【直播回放】 uploads (tid=174) are invisible to /x/space/wbi/arc/search and effectively absent from the web search index for date queries; the /x/series/archives endpoint for series 407852 is the only reliable route to them.",
+  "A single BV (BV1Gb4y1k7MX) with 589 P covers 2017-10-24..2021-06-23 and is the backbone for the Douyu era; each P is matched independently via ?p=N.",
+  "Rank 1 matched the site link on all three required dates (3/3), and rank 1..3 also held for the two historical probes.",
+  "Same-night split uploads (21点场/22点场) and dual-view fan copies legitimately produce multiple high-scoring candidates for one date; pick by score, then prefer the official single-part upload when the dataset wants one link.",
+  "When the top catalog score is below 70 the tool automatically falls back to web search (online=auto); use --online never for fast offline batch runs once the catalog is built."
+ ]
+}

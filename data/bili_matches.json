@@ -1,0 +1,6686 @@
+{
+ "2017-08-01": {
+  "bvid": null,
+  "source": "none",
+  "confidence": "none",
+  "score": 0
+ },
+ "2017-08-02": {
+  "bvid": null,
+  "source": "none",
+  "confidence": "none",
+  "score": 0
+ },
+ "2017-08-03": {
+  "bvid": "BV1PY4y1k7o1",
+  "url": "https://www.bilibili.com/video/BV1PY4y1k7o1",
+  "title": "hanser早期直播逗鸟鸟套套（2017年8月3日）",
+  "author": "被窝的爆米花",
+  "mid": 180119,
+  "pubdate": 1652579565,
+  "pubdate_iso": "2022-05-15 09:52:45",
+  "score": 66,
+  "reasons": [
+   "title-date-exact",
+   "dur_plausible"
+  ],
+  "duration": 2434,
+  "page": null,
+  "source": "catalogue+search",
+  "confidence": "suspected",
+  "alternates": [],
+  "note": "标题含当日日期，但为片段/合集或弱证据，待核实"
+ },
+ "2017-08-08": {
+  "bvid": null,
+  "source": "none",
+  "confidence": "none",
+  "score": 0
+ },
+ "2017-08-10": {
+  "bvid": null,
+  "source": "none",
+  "confidence": "none",
+  "score": 0
+ },
+ "2017-08-12": {
+  "bvid": null,
+  "source": "none",
+  "confidence": "none",
+  "score": 0
+ },
+ "2017-08-14": {
+  "bvid": null,
+  "source": "none",
+  "confidence": "none",
+  "score": 0
+ },
+ "2017-08-16": {
+  "bvid": null,
+  "source": "none",
+  "confidence": "none",
+  "score": 0
+ },
+ "2017-08-18": {
+  "bvid": "BV1ig411R7xs",
+  "url": "https://www.bilibili.com/video/BV1ig411R7xs",
+  "title": "hanser——irony  2017.8.18",
+  "author": "-芙蘭醬-",
+  "mid": 550431953,
+  "pubdate": 1654080221,
+  "pubdate_iso": "2022-06-01 18:43:41",
+  "score": 60,
+  "reasons": [
+   "title-date-exact"
+  ],
+  "duration": 280,
+  "page": null,
+  "source": "catalogue+search",
+  "confidence": "suspected",
+  "alternates": [],
+  "note": "标题含当日日期，但为片段/合集或弱证据，待核实"
+ },
+ "2017-08-21": {
+  "bvid": null,
+  "source": "none",
+  "confidence": "none",
+  "score": 0
+ },
+ "2017-08-23": {
+  "bvid": null,
+  "source": "none",
+  "confidence": "none",
+  "score": 0
+ },
+ "2017-08-30": {
+  "bvid": null,
+  "source": "none",
+  "confidence": "none",
+  "score": 0
+ },
+ "2017-09-02": {
+  "bvid": null,
+  "source": "none",
+  "confidence": "none",
+  "score": 0
+ },
+ "2017-09-04": {
+  "bvid": null,
+  "source": "none",
+  "confidence": "none",
+  "score": 0
+ },
+ "2017-09-06": {
+  "bvid": null,
+  "source": "none",
+  "confidence": "none",
+  "score": 0
+ },
+ "2017-09-08": {
+  "bvid": null,
+  "source": "none",
+  "confidence": "none",
+  "score": 0
+ },
+ "2017-09-12": {
+  "bvid": null,
+  "url": null,
+  "title": "【小缘】2017年9月9日9点到12点半”小缘翻唱直播日常（有弹幕）",
+  "author": "小缘之茶频道",
+  "mid": 10965464,
+  "pubdate": 1505036340,
+  "pubdate_iso": "2017-09-10 17:39:00",
+  "score": 22,
+  "reasons": [
+   "pub_delta_2d",
+   "dur_plausible"
+  ],
+  "duration": 11616,
+  "page": null,
+  "source": "rejected",
+  "confidence": "rejected",
+  "alternates": [],
+  "rejected_bvid": "BV1sx41147GV",
+  "rejected_title": "【小缘】2017年9月9日9点到12点半”小缘翻唱直播日常（有弹幕）",
+  "note": "候选标题日期与直播日期不符，已排除"
+ },
+ "2017-09-14": {
+  "bvid": "BV1TA4y1o7Vh",
+  "url": "https://www.bilibili.com/video/BV1TA4y1o7Vh",
+  "title": "hanser——恋爱循环  2017.9.14",
+  "author": "-芙蘭醬-",
+  "mid": 550431953,
+  "pubdate": 1654186518,
+  "pubdate_iso": "2022-06-03 00:15:18",
+  "score": 60,
+  "reasons": [
+   "title-date-exact"
+  ],
+  "duration": 267,
+  "page": null,
+  "source": "catalogue+search",
+  "confidence": "suspected",
+  "alternates": [],
+  "note": "标题含当日日期，但为片段/合集或弱证据，待核实"
+ },
+ "2017-09-15": {
+  "bvid": null,
+  "source": "none",
+  "confidence": "none",
+  "score": 0
+ },
+ "2017-09-16": {
+  "bvid": "BV1PY4y147nm",
+  "url": "https://www.bilibili.com/video/BV1PY4y147nm",
+  "title": "hanser—演员  2017.9.16",
+  "author": "-芙蘭醬-",
+  "mid": 550431953,
+  "pubdate": 1654774676,
+  "pubdate_iso": "2022-06-09 19:37:56",
+  "score": 60,
+  "reasons": [
+   "title-date-exact"
+  ],
+  "duration": 260,
+  "page": null,
+  "source": "catalogue+search",
+  "confidence": "suspected",
+  "alternates": [
+   {
+    "bvid": "BV1eY411M7ch",
+    "url": "https://www.bilibili.com/video/BV1eY411M7ch",
+    "title": "hanser—夜行少女  2017.9.16",
+    "author": "-芙蘭醬-",
+    "mid": 550431953,
+    "pubdate": 1654773647,
+    "pubdate_iso": "2022-06-09 19:20:47",
+    "score": 60,
+    "reasons": [
+     "title-date-exact"
+    ],
+    "duration": 267,
+    "page": null,
+    "source": "search"
+   },
+   {
+    "bvid": "BV1Dt4y1p7YV",
+    "url": "https://www.bilibili.com/video/BV1Dt4y1p7YV",
+    "title": "hanser——全力☆Summer!  2017.9.16",
+    "author": "-芙蘭醬-",
+    "mid": 550431953,
+    "pubdate": 1654120801,
+    "pubdate_iso": "2022-06-02 06:00:01",
+    "score": 60,
+    "reasons": [
+     "title-date-exact"
+    ],
+    "duration": 233,
+    "page": null,
+    "source": "search"
+   },
+   {
+    "bvid": "BV1sx41147GV",
+    "url": "https://www.bilibili.com/video/BV1sx41147GV",
+    "title": "【小缘】2017年9月9日9点到12点半”小缘翻唱直播日常（有弹幕）",
+    "author": "小缘之茶频道",
+    "mid": 10965464,
+    "pubdate": 1505036340,
+    "pubdate_iso": "2017-09-10 17:39:00",
+    "score": 9,
+    "reasons": [
+     "pub_delta_6d",
+     "dur_plausible"
+    ],
+    "duration": 11616,
+    "page": null,
+    "source": "search"
+   }
+  ],
+  "note": "标题含当日日期，但为片段/合集或弱证据，待核实"
+ },
+ "2017-09-18": {
+  "bvid": null,
+  "source": "none",
+  "confidence": "none",
+  "score": 0
+ },
+ "2017-09-20": {
+  "bvid": null,
+  "source": "none",
+  "confidence": "none",
+  "score": 0
+ },
+ "2017-09-22": {
+  "bvid": null,
+  "source": "none",
+  "confidence": "none",
+  "score": 0
+ },
+ "2017-10-03": {
+  "bvid": null,
+  "source": "none",
+  "confidence": "none",
+  "score": 0
+ },
+ "2017-10-06": {
+  "bvid": null,
+  "source": "none",
+  "confidence": "none",
+  "score": 0
+ },
+ "2017-10-07": {
+  "bvid": null,
+  "source": "none",
+  "confidence": "none",
+  "score": 0
+ },
+ "2017-10-08": {
+  "bvid": "BV1WZ4y1y7jL",
+  "url": "https://www.bilibili.com/video/BV1WZ4y1y7jL",
+  "title": "【hanser】告白气球 14P全合集(2017.10.8—2021.10.18)",
+  "author": "宇佐见莲子-Official",
+  "mid": 319193472,
+  "pubdate": 1651313280,
+  "pubdate_iso": "2022-04-30 18:08:00",
+  "score": 62,
+  "reasons": [
+   "title-date-exact",
+   "bad:合集",
+   "dur_plausible"
+  ],
+  "duration": 3009,
+  "page": null,
+  "source": "catalogue+search",
+  "confidence": "suspected",
+  "alternates": [],
+  "note": "标题含当日日期，但为片段/合集或弱证据，待核实"
+ },
+ "2017-10-24": {
+  "bvid": "BV1Dx411775J",
+  "url": "https://www.bilibili.com/video/BV1Dx411775J",
+  "title": "【hanser】直播录像 2017-10-24 19点场 转自斗鱼",
+  "author": "Rayzggz",
+  "mid": 10501326,
+  "pubdate": 1509222640,
+  "pubdate_iso": "2017-10-29 04:30:40",
+  "score": 102,
+  "reasons": [
+   "title-date-exact",
+   "pub_delta_5d",
+   "up:Rayzggz",
+   "kw:直播录像",
+   "dur_plausible",
+   "catalog:space"
+  ],
+  "duration": 7201,
+  "page": null,
+  "source": "catalogue",
+  "confidence": "high",
+  "alternates": [
+   {
+    "bvid": "BV1Gb4y1k7MX",
+    "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX",
+    "title": "【 2017.10.24】",
+    "author": "東方延續·HANSER直播合集",
+    "mid": 24076741,
+    "pubdate": null,
+    "pubdate_iso": "",
+    "score": 91,
+    "reasons": [
+     "title-date-exact",
+     "up:東方延續·HANSER直播合集",
+     "dur_plausible",
+     "catalog:multipart"
+    ],
+    "duration": 7201,
+    "page": null,
+    "source": "multipart"
+   },
+   {
+    "bvid": "BV1Dx41177Mv",
+    "url": "https://www.bilibili.com/video/BV1Dx41177Mv",
+    "title": "【hanser】直播录制 2017-10-25 20点场 转自斗鱼",
+    "author": "Rayzggz",
+    "mid": 10501326,
+    "pubdate": 1509222264,
+    "pubdate_iso": "2017-10-29 04:24:24",
+    "score": 41,
+    "reasons": [
+     "pub_delta_5d",
+     "up:Rayzggz",
+     "kw:直播录制",
+     "dur_plausible",
+     "catalog:space"
+    ],
+    "duration": 7202,
+    "page": null,
+    "source": "space"
+   },
+   {
+    "bvid": "BV14x411E7qH",
+    "url": "https://www.bilibili.com/video/BV14x411E7qH",
+    "title": "【hanser】周五晚8 2017-10-27 直播录制",
+    "author": "Rayzggz",
+    "mid": 10501326,
+    "pubdate": 1509465340,
+    "pubdate_iso": "2017-10-31 23:55:40",
+    "score": 39,
+    "reasons": [
+     "pub_delta_7d",
+     "up:Rayzggz",
+     "kw:直播录制",
+     "dur_plausible",
+     "catalog:space"
+    ],
+    "duration": 14358,
+    "page": null,
+    "source": "space"
+   }
+  ]
+ },
+ "2017-10-25": {
+  "bvid": "BV1Dx41177Mv",
+  "url": "https://www.bilibili.com/video/BV1Dx41177Mv",
+  "title": "【hanser】直播录制 2017-10-25 20点场 转自斗鱼",
+  "author": "Rayzggz",
+  "mid": 10501326,
+  "pubdate": 1509222264,
+  "pubdate_iso": "2017-10-29 04:24:24",
+  "score": 103,
+  "reasons": [
+   "title-date-exact",
+   "pub_delta_4d",
+   "up:Rayzggz",
+   "kw:直播录制",
+   "dur_plausible",
+   "catalog:space"
+  ],
+  "duration": 7202,
+  "page": null,
+  "source": "catalogue",
+  "confidence": "high",
+  "alternates": [
+   {
+    "bvid": "BV1Gb4y1k7MX",
+    "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX",
+    "title": "【 2017.10.25】",
+    "author": "東方延續·HANSER直播合集",
+    "mid": 24076741,
+    "pubdate": null,
+    "pubdate_iso": "",
+    "score": 91,
+    "reasons": [
+     "title-date-exact",
+     "up:東方延續·HANSER直播合集",
+     "dur_plausible",
+     "catalog:multipart"
+    ],
+    "duration": 7202,
+    "page": null,
+    "source": "multipart"
+   },
+   {
+    "bvid": "BV1Dx411775J",
+    "url": "https://www.bilibili.com/video/BV1Dx411775J",
+    "title": "【hanser】直播录像 2017-10-24 19点场 转自斗鱼",
+    "author": "Rayzggz",
+    "mid": 10501326,
+    "pubdate": 1509222640,
+    "pubdate_iso": "2017-10-29 04:30:40",
+    "score": 44,
+    "reasons": [
+     "pub_delta_4d",
+     "up:Rayzggz",
+     "kw:直播录像",
+     "dur_plausible",
+     "catalog:space"
+    ],
+    "duration": 7201,
+    "page": null,
+    "source": "space"
+   },
+   {
+    "bvid": "BV14x411E7qH",
+    "url": "https://www.bilibili.com/video/BV14x411E7qH",
+    "title": "【hanser】周五晚8 2017-10-27 直播录制",
+    "author": "Rayzggz",
+    "mid": 10501326,
+    "pubdate": 1509465340,
+    "pubdate_iso": "2017-10-31 23:55:40",
+    "score": 40,
+    "reasons": [
+     "pub_delta_6d",
+     "up:Rayzggz",
+     "kw:直播录制",
+     "dur_plausible",
+     "catalog:space"
+    ],
+    "duration": 14358,
+    "page": null,
+    "source": "space"
+   }
+  ]
+ },
+ "2017-10-27": {
+  "bvid": "BV14x411E7qH",
+  "url": "https://www.bilibili.com/video/BV14x411E7qH",
+  "title": "【hanser】周五晚8 2017-10-27 直播录制",
+  "author": "Rayzggz",
+  "mid": 10501326,
+  "pubdate": 1509465340,
+  "pubdate_iso": "2017-10-31 23:55:40",
+  "score": 103,
+  "reasons": [
+   "title-date-exact",
+   "pub_delta_4d",
+   "up:Rayzggz",
+   "kw:直播录制",
+   "dur_plausible",
+   "catalog:space"
+  ],
+  "duration": 14358,
+  "page": null,
+  "source": "catalogue",
+  "confidence": "high",
+  "alternates": [
+   {
+    "bvid": "BV1Gb4y1k7MX",
+    "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX",
+    "title": "【2017.10.27】",
+    "author": "東方延續·HANSER直播合集",
+    "mid": 24076741,
+    "pubdate": null,
+    "pubdate_iso": "",
+    "score": 91,
+    "reasons": [
+     "title-date-exact",
+     "up:東方延續·HANSER直播合集",
+     "dur_plausible",
+     "catalog:multipart"
+    ],
+    "duration": 7201,
+    "page": null,
+    "source": "multipart"
+   },
+   {
+    "bvid": "BV1Gb4y1k7MX",
+    "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX",
+    "title": "【2017.10.27】",
+    "author": "東方延續·HANSER直播合集",
+    "mid": 24076741,
+    "pubdate": null,
+    "pubdate_iso": "",
+    "score": 91,
+    "reasons": [
+     "title-date-exact",
+     "up:東方延續·HANSER直播合集",
+     "dur_plausible",
+     "catalog:multipart"
+    ],
+    "duration": 7157,
+    "page": null,
+    "source": "multipart"
+   },
+   {
+    "bvid": "BV1Dx411775J",
+    "url": "https://www.bilibili.com/video/BV1Dx411775J",
+    "title": "【hanser】直播录像 2017-10-24 19点场 转自斗鱼",
+    "author": "Rayzggz",
+    "mid": 10501326,
+    "pubdate": 1509222640,
+    "pubdate_iso": "2017-10-29 04:30:40",
+    "score": 54,
+    "reasons": [
+     "pub_delta_2d",
+     "up:Rayzggz",
+     "kw:直播录像",
+     "dur_plausible",
+     "catalog:space"
+    ],
+    "duration": 7201,
+    "page": null,
+    "source": "space"
+   }
+  ]
+ },
+ "2017-10-30": {
+  "bvid": "BV14x411E7km",
+  "url": "https://www.bilibili.com/video/BV14x411E7km",
+  "title": "【hanser】伴着鼻涕唱歌聊天 2017-10-30 直播录制",
+  "author": "Rayzggz",
+  "mid": 10501326,
+  "pubdate": 1509465918,
+  "pubdate_iso": "2017-11-01 00:05:18",
+  "score": 113,
+  "reasons": [
+   "title-date-exact",
+   "pub_delta_2d",
+   "up:Rayzggz",
+   "kw:直播录制",
+   "dur_plausible",
+   "catalog:space"
+  ],
+  "duration": 11179,
+  "page": null,
+  "source": "catalogue",
+  "confidence": "high",
+  "alternates": [
+   {
+    "bvid": "BV1Dx411775J",
+    "url": "https://www.bilibili.com/video/BV1Dx411775J",
+    "title": "【hanser】直播录像 2017-10-24 19点场 转自斗鱼",
+    "author": "Rayzggz",
+    "mid": 10501326,
+    "pubdate": 1509222640,
+    "pubdate_iso": "2017-10-29 04:30:40",
+    "score": 60,
+    "reasons": [
+     "pub_delta_1d",
+     "up:Rayzggz",
+     "kw:直播录像",
+     "dur_plausible",
+     "catalog:space"
+    ],
+    "duration": 7201,
+    "page": null,
+    "source": "space"
+   },
+   {
+    "bvid": "BV14x411E7qH",
+    "url": "https://www.bilibili.com/video/BV14x411E7qH",
+    "title": "【hanser】周五晚8 2017-10-27 直播录制",
+    "author": "Rayzggz",
+    "mid": 10501326,
+    "pubdate": 1509465340,
+    "pubdate_iso": "2017-10-31 23:55:40",
+    "score": 59,
+    "reasons": [
+     "pub_delta_1d",
+     "up:Rayzggz",
+     "kw:直播录制",
+     "dur_plausible",
+     "catalog:space"
+    ],
+    "duration": 14358,
+    "page": null,
+    "source": "space"
+   },
+   {
+    "bvid": "BV1Dx41177Mv",
+    "url": "https://www.bilibili.com/video/BV1Dx41177Mv",
+    "title": "【hanser】直播录制 2017-10-25 20点场 转自斗鱼",
+    "author": "Rayzggz",
+    "mid": 10501326,
+    "pubdate": 1509222264,
+    "pubdate_iso": "2017-10-29 04:24:24",
+    "score": 59,
+    "reasons": [
+     "pub_delta_1d",
+     "up:Rayzggz",
+     "kw:直播录制",
+     "dur_plausible",
+     "catalog:space"
+    ],
+    "duration": 7202,
+    "page": null,
+    "source": "space"
+   }
+  ]
+ },
+ "2017-11-01": {
+  "bvid": "BV1Wx411j7qW",
+  "url": "https://www.bilibili.com/video/BV1Wx411j7qW",
+  "title": "【hanser】真心话大毛线 2017-11-01 20点场",
+  "author": "Rayzggz",
+  "mid": 10501326,
+  "pubdate": 1509822389,
+  "pubdate_iso": "2017-11-05 03:06:29",
+  "score": 95,
+  "reasons": [
+   "title-date-exact",
+   "pub_delta_4d",
+   "up:Rayzggz",
+   "dur_plausible",
+   "catalog:space"
+  ],
+  "duration": 7202,
+  "page": null,
+  "source": "catalogue",
+  "confidence": "high",
+  "alternates": [
+   {
+    "bvid": "BV1Gb4y1k7MX",
+    "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX",
+    "title": "【2017.11.1】",
+    "author": "東方延續·HANSER直播合集",
+    "mid": 24076741,
+    "pubdate": null,
+    "pubdate_iso": "",
+    "score": 91,
+    "reasons": [
+     "title-date-exact",
+     "up:東方延續·HANSER直播合集",
+     "dur_plausible",
+     "catalog:multipart"
+    ],
+    "duration": 7202,
+    "page": null,
+    "source": "multipart"
+   },
+   {
+    "bvid": "BV14x411E7km",
+    "url": "https://www.bilibili.com/video/BV14x411E7km",
+    "title": "【hanser】伴着鼻涕唱歌聊天 2017-10-30 直播录制",
+    "author": "Rayzggz",
+    "mid": 10501326,
+    "pubdate": 1509465918,
+    "pubdate_iso": "2017-11-01 00:05:18",
+    "score": 67,
+    "reasons": [
+     "pub_delta_0d",
+     "up:Rayzggz",
+     "kw:直播录制",
+     "dur_plausible",
+     "catalog:space"
+    ],
+    "duration": 11179,
+    "page": null,
+    "source": "space"
+   },
+   {
+    "bvid": "BV14x411E7qH",
+    "url": "https://www.bilibili.com/video/BV14x411E7qH",
+    "title": "【hanser】周五晚8 2017-10-27 直播录制",
+    "author": "Rayzggz",
+    "mid": 10501326,
+    "pubdate": 1509465340,
+    "pubdate_iso": "2017-10-31 23:55:40",
+    "score": 59,
+    "reasons": [
+     "pub_delta_1d",
+     "up:Rayzggz",
+     "kw:直播录制",
+     "dur_plausible",
+     "catalog:space"
+    ],
+    "duration": 14358,
+    "page": null,
+    "source": "space"
+   }
+  ]
+ },
+ "2017-11-06": {
+  "bvid": "BV1Rx411j7Cw",
+  "url": "https://www.bilibili.com/video/BV1Rx411j7Cw",
+  "title": "【hanser】唱唱聊聊教日语 2017-11-06 20点场 直播录像",
+  "author": "Rayzggz",
+  "mid": 10501326,
+  "pubdate": 1510128316,
+  "pubdate_iso": "2017-11-08 16:05:16",
+  "score": 114,
+  "reasons": [
+   "title-date-exact",
+   "pub_delta_2d",
+   "up:Rayzggz",
+   "kw:直播录像",
+   "dur_plausible",
+   "catalog:space"
+  ],
+  "duration": 7202,
+  "page": null,
+  "source": "catalogue",
+  "confidence": "high",
+  "alternates": [
+   {
+    "bvid": "BV1Gb4y1k7MX",
+    "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX",
+    "title": "【2017.11.6 】 直播录像唱唱聊聊教日语",
+    "author": "東方延續·HANSER直播合集",
+    "mid": 24076741,
+    "pubdate": null,
+    "pubdate_iso": "",
+    "score": 100,
+    "reasons": [
+     "title-date-exact",
+     "up:東方延續·HANSER直播合集",
+     "kw:直播录像",
+     "dur_plausible",
+     "catalog:multipart"
+    ],
+    "duration": 7202,
+    "page": null,
+    "source": "multipart"
+   },
+   {
+    "bvid": "BV1Wx411j7qW",
+    "url": "https://www.bilibili.com/video/BV1Wx411j7qW",
+    "title": "【hanser】真心话大毛线 2017-11-01 20点场",
+    "author": "Rayzggz",
+    "mid": 10501326,
+    "pubdate": 1509822389,
+    "pubdate_iso": "2017-11-05 03:06:29",
+    "score": 51,
+    "reasons": [
+     "pub_delta_1d",
+     "up:Rayzggz",
+     "dur_plausible",
+     "catalog:space"
+    ],
+    "duration": 7202,
+    "page": null,
+    "source": "space"
+   },
+   {
+    "bvid": "BV14x411E7km",
+    "url": "https://www.bilibili.com/video/BV14x411E7km",
+    "title": "【hanser】伴着鼻涕唱歌聊天 2017-10-30 直播录制",
+    "author": "Rayzggz",
+    "mid": 10501326,
+    "pubdate": 1509465918,
+    "pubdate_iso": "2017-11-01 00:05:18",
+    "score": 41,
+    "reasons": [
+     "pub_delta_5d",
+     "up:Rayzggz",
+     "kw:直播录制",
+     "dur_plausible",
+     "catalog:space"
+    ],
+    "duration": 11179,
+    "page": null,
+    "source": "space"
+   }
+  ]
+ },
+ "2017-11-10": {
+  "bvid": "BV1Sx41157Md",
+  "url": "https://www.bilibili.com/video/BV1Sx41157Md",
+  "title": "【hanser】唱唱聊聊~ 2017-11-10 直播录制 19点场",
+  "author": "Rayzggz",
+  "mid": 10501326,
+  "pubdate": 1510514298,
+  "pubdate_iso": "2017-11-13 03:18:18",
+  "score": 107,
+  "reasons": [
+   "title-date-exact",
+   "pub_delta_3d",
+   "up:Rayzggz",
+   "kw:直播录制",
+   "dur_plausible",
+   "catalog:space"
+  ],
+  "duration": 7195,
+  "page": null,
+  "source": "catalogue",
+  "confidence": "high",
+  "alternates": [
+   {
+    "bvid": "BV1Gb4y1k7MX",
+    "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX",
+    "title": "【 2017.11.10】  唱唱聊聊~",
+    "author": "東方延續·HANSER直播合集",
+    "mid": 24076741,
+    "pubdate": null,
+    "pubdate_iso": "",
+    "score": 91,
+    "reasons": [
+     "title-date-exact",
+     "up:東方延續·HANSER直播合集",
+     "dur_plausible",
+     "catalog:multipart"
+    ],
+    "duration": 7195,
+    "page": null,
+    "source": "multipart"
+   },
+   {
+    "bvid": "BV1Rx411j7Cw",
+    "url": "https://www.bilibili.com/video/BV1Rx411j7Cw",
+    "title": "【hanser】唱唱聊聊教日语 2017-11-06 20点场 直播录像",
+    "author": "Rayzggz",
+    "mid": 10501326,
+    "pubdate": 1510128316,
+    "pubdate_iso": "2017-11-08 16:05:16",
+    "score": 54,
+    "reasons": [
+     "pub_delta_2d",
+     "up:Rayzggz",
+     "kw:直播录像",
+     "dur_plausible",
+     "catalog:space"
+    ],
+    "duration": 7202,
+    "page": null,
+    "source": "space"
+   },
+   {
+    "bvid": "BV1Tx411L73E",
+    "url": "https://www.bilibili.com/video/BV1Tx411L73E",
+    "title": "【hanser】教日语啊/当地主啊 2017-11-13 直播录制",
+    "author": "Rayzggz",
+    "mid": 10501326,
+    "pubdate": 1510682323,
+    "pubdate_iso": "2017-11-15 01:58:43",
+    "score": 41,
+    "reasons": [
+     "pub_delta_5d",
+     "up:Rayzggz",
+     "kw:直播录制",
+     "dur_plausible",
+     "catalog:space"
+    ],
+    "duration": 11375,
+    "page": null,
+    "source": "space"
+   }
+  ]
+ },
+ "2017-11-13": {
+  "bvid": "BV1Tx411L73E",
+  "url": "https://www.bilibili.com/video/BV1Tx411L73E",
+  "title": "【hanser】教日语啊/当地主啊 2017-11-13 直播录制",
+  "author": "Rayzggz",
+  "mid": 10501326,
+  "pubdate": 1510682323,
+  "pubdate_iso": "2017-11-15 01:58:43",
+  "score": 113,
+  "reasons": [
+   "title-date-exact",
+   "pub_delta_2d",
+   "up:Rayzggz",
+   "kw:直播录制",
+   "dur_plausible",
+   "catalog:space"
+  ],
+  "duration": 11375,
+  "page": null,
+  "source": "catalogue",
+  "confidence": "high",
+  "alternates": [
+   {
+    "bvid": "BV1Gb4y1k7MX",
+    "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX",
+    "title": "【2017.11.13】 教日语啊",
+    "author": "東方延續·HANSER直播合集",
+    "mid": 24076741,
+    "pubdate": null,
+    "pubdate_iso": "",
+    "score": 91,
+    "reasons": [
+     "title-date-exact",
+     "up:東方延續·HANSER直播合集",
+     "dur_plausible",
+     "catalog:multipart"
+    ],
+    "duration": 7202,
+    "page": null,
+    "source": "multipart"
+   },
+   {
+    "bvid": "BV1Gb4y1k7MX",
+    "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX",
+    "title": "【 2017.11.13】 当地主啊",
+    "author": "東方延續·HANSER直播合集",
+    "mid": 24076741,
+    "pubdate": null,
+    "pubdate_iso": "",
+    "score": 91,
+    "reasons": [
+     "title-date-exact",
+     "up:東方延續·HANSER直播合集",
+     "dur_plausible",
+     "catalog:multipart"
+    ],
+    "duration": 4174,
+    "page": null,
+    "source": "multipart"
+   },
+   {
+    "bvid": "BV1Sx41157Md",
+    "url": "https://www.bilibili.com/video/BV1Sx41157Md",
+    "title": "【hanser】唱唱聊聊~ 2017-11-10 直播录制 19点场",
+    "author": "Rayzggz",
+    "mid": 10501326,
+    "pubdate": 1510514298,
+    "pubdate_iso": "2017-11-13 03:18:18",
+    "score": 67,
+    "reasons": [
+     "pub_delta_0d",
+     "up:Rayzggz",
+     "kw:直播录制",
+     "dur_plausible",
+     "catalog:space"
+    ],
+    "duration": 7195,
+    "page": null,
+    "source": "space"
+   }
+  ]
+ },
+ "2017-11-17": {
+  "bvid": "BV1Kx411j73F",
+  "url": "https://www.bilibili.com/video/BV1Kx411j73F",
+  "title": "【hanser】迟到了啊 2017-11-17 21点场",
+  "author": "Rayzggz",
+  "mid": 10501326,
+  "pubdate": 1511116182,
+  "pubdate_iso": "2017-11-20 02:29:42",
+  "score": 99,
+  "reasons": [
+   "title-date-exact",
+   "pub_delta_3d",
+   "up:Rayzggz",
+   "dur_plausible",
+   "catalog:space"
+  ],
+  "duration": 7201,
+  "page": null,
+  "source": "catalogue",
+  "confidence": "high",
+  "alternates": [
+   {
+    "bvid": "BV1Gb4y1k7MX",
+    "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX",
+    "title": "【2017.11.17】 迟到了啊",
+    "author": "東方延續·HANSER直播合集",
+    "mid": 24076741,
+    "pubdate": null,
+    "pubdate_iso": "",
+    "score": 91,
+    "reasons": [
+     "title-date-exact",
+     "up:東方延續·HANSER直播合集",
+     "dur_plausible",
+     "catalog:multipart"
+    ],
+    "duration": 7201,
+    "page": null,
+    "source": "multipart"
+   },
+   {
+    "bvid": "BV1Tx411L73E",
+    "url": "https://www.bilibili.com/video/BV1Tx411L73E",
+    "title": "【hanser】教日语啊/当地主啊 2017-11-13 直播录制",
+    "author": "Rayzggz",
+    "mid": 10501326,
+    "pubdate": 1510682323,
+    "pubdate_iso": "2017-11-15 01:58:43",
+    "score": 53,
+    "reasons": [
+     "pub_delta_2d",
+     "up:Rayzggz",
+     "kw:直播录制",
+     "dur_plausible",
+     "catalog:space"
+    ],
+    "duration": 11375,
+    "page": null,
+    "source": "space"
+   },
+   {
+    "bvid": "BV1Sx41157Md",
+    "url": "https://www.bilibili.com/video/BV1Sx41157Md",
+    "title": "【hanser】唱唱聊聊~ 2017-11-10 直播录制 19点场",
+    "author": "Rayzggz",
+    "mid": 10501326,
+    "pubdate": 1510514298,
+    "pubdate_iso": "2017-11-13 03:18:18",
+    "score": 43,
+    "reasons": [
+     "pub_delta_4d",
+     "up:Rayzggz",
+     "kw:直播录制",
+     "dur_plausible",
+     "catalog:space"
+    ],
+    "duration": 7195,
+    "page": null,
+    "source": "space"
+   }
+  ]
+ },
+ "2017-11-20": {
+  "bvid": "BV1Sx411V7E8",
+  "url": "https://www.bilibili.com/video/BV1Sx411V7E8",
+  "title": "【hanser】晚上好啊/当地主啊 2017-11-20 直播录制",
+  "author": "Rayzggz",
+  "mid": 10501326,
+  "pubdate": 1511451985,
+  "pubdate_iso": "2017-11-23 23:46:25",
+  "score": 107,
+  "reasons": [
+   "title-date-exact",
+   "pub_delta_3d",
+   "up:Rayzggz",
+   "kw:直播录制",
+   "dur_plausible",
+   "catalog:space"
+  ],
+  "duration": 10037,
+  "page": null,
+  "source": "catalogue",
+  "confidence": "high",
+  "alternates": [
+   {
+    "bvid": "BV1mx411V7yb",
+    "url": "https://www.bilibili.com/video/BV1mx411V7yb",
+    "title": "【hanser】看憨夹的娃娃 2017-11-20",
+    "author": "Rayzggz",
+    "mid": 10501326,
+    "pubdate": 1511443651,
+    "pubdate_iso": "2017-11-23 21:27:31",
+    "score": 93,
+    "reasons": [
+     "title-date-exact",
+     "pub_delta_3d",
+     "up:Rayzggz",
+     "catalog:space"
+    ],
+    "duration": 848,
+    "page": null,
+    "source": "space"
+   },
+   {
+    "bvid": "BV1Gb4y1k7MX",
+    "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX",
+    "title": "【2017.11.20】 晚上好啊，当地主啊",
+    "author": "東方延續·HANSER直播合集",
+    "mid": 24076741,
+    "pubdate": null,
+    "pubdate_iso": "",
+    "score": 91,
+    "reasons": [
+     "title-date-exact",
+     "up:東方延續·HANSER直播合集",
+     "dur_plausible",
+     "catalog:multipart"
+    ],
+    "duration": 10037,
+    "page": null,
+    "source": "multipart"
+   },
+   {
+    "bvid": "BV1Kx411j73F",
+    "url": "https://www.bilibili.com/video/BV1Kx411j73F",
+    "title": "【hanser】迟到了啊 2017-11-17 21点场",
+    "author": "Rayzggz",
+    "mid": 10501326,
+    "pubdate": 1511116182,
+    "pubdate_iso": "2017-11-20 02:29:42",
+    "score": 59,
+    "reasons": [
+     "pub_delta_0d",
+     "up:Rayzggz",
+     "dur_plausible",
+     "catalog:space"
+    ],
+    "duration": 7201,
+    "page": null,
+    "source": "space"
+   }
+  ]
+ },
+ "2017-11-22": {
+  "bvid": "BV11x411V7dq",
+  "url": "https://www.bilibili.com/video/BV11x411V7dq",
+  "title": "【hanser】真心话大冒险啊 2017-11-22 20点场",
+  "author": "Rayzggz",
+  "mid": 10501326,
+  "pubdate": 1511441789,
+  "pubdate_iso": "2017-11-23 20:56:29",
+  "score": 111,
+  "reasons": [
+   "title-date-exact",
+   "pub_delta_1d",
+   "up:Rayzggz",
+   "dur_plausible",
+   "catalog:space"
+  ],
+  "duration": 7201,
+  "page": null,
+  "source": "catalogue",
+  "confidence": "high",
+  "alternates": [
+   {
+    "bvid": "BV1Tx41157R1",
+    "url": "https://www.bilibili.com/video/BV1Tx41157R1",
+    "title": "【hanser】真心话大冒险啊 2017-11-22",
+    "author": "Rayzggz",
+    "mid": 10501326,
+    "pubdate": 1511628863,
+    "pubdate_iso": "2017-11-26 00:54:23",
+    "score": 95,
+    "reasons": [
+     "title-date-exact",
+     "pub_delta_4d",
+     "up:Rayzggz",
+     "dur_plausible",
+     "catalog:space"
+    ],
+    "duration": 14404,
+    "page": null,
+    "source": "space"
+   },
+   {
+    "bvid": "BV1Gb4y1k7MX",
+    "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX",
+    "title": "【2017.11.22】 真心话大冒险啊",
+    "author": "東方延續·HANSER直播合集",
+    "mid": 24076741,
+    "pubdate": null,
+    "pubdate_iso": "",
+    "score": 91,
+    "reasons": [
+     "title-date-exact",
+     "up:東方延續·HANSER直播合集",
+     "dur_plausible",
+     "catalog:multipart"
+    ],
+    "duration": 7201,
+    "page": null,
+    "source": "multipart"
+   },
+   {
+    "bvid": "BV1Gb4y1k7MX",
+    "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX",
+    "title": "【hanser】真心话大冒险啊 2017-11-22-22点场",
+    "author": "東方延續·HANSER直播合集",
+    "mid": 24076741,
+    "pubdate": null,
+    "pubdate_iso": "",
+    "score": 91,
+    "reasons": [
+     "title-date-exact",
+     "up:東方延續·HANSER直播合集",
+     "dur_plausible",
+     "catalog:multipart"
+    ],
+    "duration": 7203,
+    "page": null,
+    "source": "multipart"
+   }
+  ]
+ },
+ "2017-11-24": {
+  "bvid": "BV11x41157Sq",
+  "url": "https://www.bilibili.com/video/BV11x41157Sq",
+  "title": "【hanser】当地主啊 2017-11-24",
+  "author": "Rayzggz",
+  "mid": 10501326,
+  "pubdate": 1511888755,
+  "pubdate_iso": "2017-11-29 01:05:55",
+  "score": 93,
+  "reasons": [
+   "title-date-exact",
+   "pub_delta_5d",
+   "up:Rayzggz",
+   "dur_plausible",
+   "catalog:space"
+  ],
+  "duration": 2771,
+  "page": null,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [
+   {
+    "bvid": "BV1Gb4y1k7MX",
+    "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX",
+    "title": "【2017.11.24】 当地主啊",
+    "author": "東方延續·HANSER直播合集",
+    "mid": 24076741,
+    "pubdate": null,
+    "pubdate_iso": "",
+    "score": 91,
+    "reasons": [
+     "title-date-exact",
+     "up:東方延續·HANSER直播合集",
+     "dur_plausible",
+     "catalog:multipart"
+    ],
+    "duration": 2771,
+    "page": null,
+    "source": "multipart"
+   },
+   {
+    "bvid": "BV1Sx411V7E8",
+    "url": "https://www.bilibili.com/video/BV1Sx411V7E8",
+    "title": "【hanser】晚上好啊/当地主啊 2017-11-20 直播录制",
+    "author": "Rayzggz",
+    "mid": 10501326,
+    "pubdate": 1511451985,
+    "pubdate_iso": "2017-11-23 23:46:25",
+    "score": 59,
+    "reasons": [
+     "pub_delta_1d",
+     "up:Rayzggz",
+     "kw:直播录制",
+     "dur_plausible",
+     "catalog:space"
+    ],
+    "duration": 10037,
+    "page": null,
+    "source": "space"
+   },
+   {
+    "bvid": "BV11x411V7dq",
+    "url": "https://www.bilibili.com/video/BV11x411V7dq",
+    "title": "【hanser】真心话大冒险啊 2017-11-22 20点场",
+    "author": "Rayzggz",
+    "mid": 10501326,
+    "pubdate": 1511441789,
+    "pubdate_iso": "2017-11-23 20:56:29",
+    "score": 51,
+    "reasons": [
+     "pub_delta_1d",
+     "up:Rayzggz",
+     "dur_plausible",
+     "catalog:space"
+    ],
+    "duration": 7201,
+    "page": null,
+    "source": "space"
+   }
+  ]
+ },
+ "2017-11-29": {
+  "bvid": "BV1WW411a7Ms",
+  "url": "https://www.bilibili.com/video/BV1WW411a7Ms",
+  "title": "【hanser】真心话打毛线啊 2017-11-29",
+  "author": "Rayzggz",
+  "mid": 10501326,
+  "pubdate": 1512035858,
+  "pubdate_iso": "2017-11-30 17:57:38",
+  "score": 111,
+  "reasons": [
+   "title-date-exact",
+   "pub_delta_1d",
+   "up:Rayzggz",
+   "dur_plausible",
+   "catalog:space"
+  ],
+  "duration": 7153,
+  "page": null,
+  "source": "catalogue",
+  "confidence": "high",
+  "alternates": [
+   {
+    "bvid": "BV1Gb4y1k7MX",
+    "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX",
+    "title": "【2017.11.29】 真心话打毛线啊",
+    "author": "東方延續·HANSER直播合集",
+    "mid": 24076741,
+    "pubdate": null,
+    "pubdate_iso": "",
+    "score": 91,
+    "reasons": [
+     "title-date-exact",
+     "up:東方延續·HANSER直播合集",
+     "dur_plausible",
+     "catalog:multipart"
+    ],
+    "duration": 7153,
+    "page": null,
+    "source": "multipart"
+   },
+   {
+    "bvid": "BV11x41157Sq",
+    "url": "https://www.bilibili.com/video/BV11x41157Sq",
+    "title": "【hanser】当地主啊 2017-11-24",
+    "author": "Rayzggz",
+    "mid": 10501326,
+    "pubdate": 1511888755,
+    "pubdate_iso": "2017-11-29 01:05:55",
+    "score": 59,
+    "reasons": [
+     "pub_delta_0d",
+     "up:Rayzggz",
+     "dur_plausible",
+     "catalog:space"
+    ],
+    "duration": 2771,
+    "page": null,
+    "source": "space"
+   },
+   {
+    "bvid": "BV1tW411Y7iC",
+    "url": "https://www.bilibili.com/video/BV1tW411Y7iC",
+    "title": "【hanser】唱唱聊聊 2017-12-04 直播录制",
+    "author": "Rayzggz",
+    "mid": 10501326,
+    "pubdate": 1512488811,
+    "pubdate_iso": "2017-12-05 23:46:51",
+    "score": 40,
+    "reasons": [
+     "pub_delta_6d",
+     "up:Rayzggz",
+     "kw:直播录制",
+     "dur_plausible",
+     "catalog:space"
+    ],
+    "duration": 11280,
+    "page": null,
+    "source": "space"
+   }
+  ]
+ },
+ "2017-12-04": {
+  "bvid": "BV1tW411Y7iC",
+  "url": "https://www.bilibili.com/video/BV1tW411Y7iC",
+  "title": "【hanser】唱唱聊聊 2017-12-04 直播录制",
+  "author": "Rayzggz",
+  "mid": 10501326,
+  "pubdate": 1512488811,
+  "pubdate_iso": "2017-12-05 23:46:51",
+  "score": 119,
+  "reasons": [
+   "title-date-exact",
+   "pub_delta_1d",
+   "up:Rayzggz",
+   "kw:直播录制",
+   "dur_plausible",
+   "catalog:space"
+  ],
+  "duration": 11280,
+  "page": null,
+  "source": "catalogue",
+  "confidence": "high",
+  "alternates": [
+   {
+    "bvid": "BV1Gb4y1k7MX",
+    "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX",
+    "title": "【2017.12.4】 唱唱聊聊",
+    "author": "東方延續·HANSER直播合集",
+    "mid": 24076741,
+    "pubdate": null,
+    "pubdate_iso": "",
+    "score": 91,
+    "reasons": [
+     "title-date-exact",
+     "up:東方延續·HANSER直播合集",
+     "dur_plausible",
+     "catalog:multipart"
+    ],
+    "duration": 7202,
+    "page": null,
+    "source": "multipart"
+   },
+   {
+    "bvid": "BV1Gb4y1k7MX",
+    "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX",
+    "title": "【2017.12.4】 唱唱聊聊",
+    "author": "東方延續·HANSER直播合集",
+    "mid": 24076741,
+    "pubdate": null,
+    "pubdate_iso": "",
+    "score": 91,
+    "reasons": [
+     "title-date-exact",
+     "up:東方延續·HANSER直播合集",
+     "dur_plausible",
+     "catalog:multipart"
+    ],
+    "duration": 4079,
+    "page": null,
+    "source": "multipart"
+   },
+   {
+    "bvid": "BV1KW411h71p",
+    "url": "https://www.bilibili.com/video/BV1KW411h71p",
+    "title": "【hanser】2017-12-06 直播录制",
+    "author": "Rayzggz",
+    "mid": 10501326,
+    "pubdate": 1512664057,
+    "pubdate_iso": "2017-12-08 00:27:37",
+    "score": 43,
+    "reasons": [
+     "pub_delta_4d",
+     "up:Rayzggz",
+     "kw:直播录制",
+     "dur_plausible",
+     "catalog:space"
+    ],
+    "duration": 14375,
+    "page": null,
+    "source": "space"
+   }
+  ]
+ },
+ "2017-12-06": {
+  "bvid": "BV1KW411h71p",
+  "url": "https://www.bilibili.com/video/BV1KW411h71p",
+  "title": "【hanser】2017-12-06 直播录制",
+  "author": "Rayzggz",
+  "mid": 10501326,
+  "pubdate": 1512664057,
+  "pubdate_iso": "2017-12-08 00:27:37",
+  "score": 113,
+  "reasons": [
+   "title-date-exact",
+   "pub_delta_2d",
+   "up:Rayzggz",
+   "kw:直播录制",
+   "dur_plausible",
+   "catalog:space"
+  ],
+  "duration": 14375,
+  "page": null,
+  "source": "catalogue",
+  "confidence": "high",
+  "alternates": [
+   {
+    "bvid": "BV1Gb4y1k7MX",
+    "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX",
+    "title": "【2017.12.6】 真心话大冒险",
+    "author": "東方延續·HANSER直播合集",
+    "mid": 24076741,
+    "pubdate": null,
+    "pubdate_iso": "",
+    "score": 91,
+    "reasons": [
+     "title-date-exact",
+     "up:東方延續·HANSER直播合集",
+     "dur_plausible",
+     "catalog:multipart"
+    ],
+    "duration": 7200,
+    "page": null,
+    "source": "multipart"
+   },
+   {
+    "bvid": "BV1Gb4y1k7MX",
+    "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX",
+    "title": "【2017.12.6】 mC启动中",
+    "author": "東方延續·HANSER直播合集",
+    "mid": 24076741,
+    "pubdate": null,
+    "pubdate_iso": "",
+    "score": 91,
+    "reasons": [
+     "title-date-exact",
+     "up:東方延續·HANSER直播合集",
+     "dur_plausible",
+     "catalog:multipart"
+    ],
+    "duration": 7175,
+    "page": null,
+    "source": "multipart"
+   },
+   {
+    "bvid": "BV1tW411Y7iC",
+    "url": "https://www.bilibili.com/video/BV1tW411Y7iC",
+    "title": "【hanser】唱唱聊聊 2017-12-04 直播录制",
+    "author": "Rayzggz",
+    "mid": 10501326,
+    "pubdate": 1512488811,
+    "pubdate_iso": "2017-12-05 23:46:51",
+    "score": 59,
+    "reasons": [
+     "pub_delta_1d",
+     "up:Rayzggz",
+     "kw:直播录制",
+     "dur_plausible",
+     "catalog:space"
+    ],
+    "duration": 11280,
+    "page": null,
+    "source": "space"
+   }
+  ]
+ },
+ "2017-12-12": {
+  "bvid": "BV1KW411a7yy",
+  "url": "https://www.bilibili.com/video/BV1KW411a7yy",
+  "title": "【hanser】2017-12-12 直播录制",
+  "author": "Rayzggz",
+  "mid": 10501326,
+  "pubdate": 1513207730,
+  "pubdate_iso": "2017-12-14 07:28:50",
+  "score": 113,
+  "reasons": [
+   "title-date-exact",
+   "pub_delta_2d",
+   "up:Rayzggz",
+   "kw:直播录制",
+   "dur_plausible",
+   "catalog:space"
+  ],
+  "duration": 15263,
+  "page": null,
+  "source": "catalogue",
+  "confidence": "high",
+  "alternates": [
+   {
+    "bvid": "BV1Gb4y1k7MX",
+    "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX",
+    "title": "【2017.12.12】  唱会儿歌啊",
+    "author": "東方延續·HANSER直播合集",
+    "mid": 24076741,
+    "pubdate": null,
+    "pubdate_iso": "",
+    "score": 91,
+    "reasons": [
+     "title-date-exact",
+     "up:東方延續·HANSER直播合集",
+     "dur_plausible",
+     "catalog:multipart"
+    ],
+    "duration": 15263,
+    "page": null,
+    "source": "multipart"
+   },
+   {
+    "bvid": "BV1nW411a7eG",
+    "url": "https://www.bilibili.com/video/BV1nW411a7eG",
+    "title": "【hanser】2017-12-14 直播录制",
+    "author": "Rayzggz",
+    "mid": 10501326,
+    "pubdate": 1513326605,
+    "pubdate_iso": "2017-12-15 16:30:05",
+    "score": 47,
+    "reasons": [
+     "pub_delta_3d",
+     "up:Rayzggz",
+     "kw:直播录制",
+     "dur_plausible",
+     "catalog:space"
+    ],
+    "duration": 7202,
+    "page": null,
+    "source": "space"
+   },
+   {
+    "bvid": "BV1jW411a7Kn",
+    "url": "https://www.bilibili.com/video/BV1jW411a7Kn",
+    "title": "【hanser】2017-12-13 直播录制",
+    "author": "Rayzggz",
+    "mid": 10501326,
+    "pubdate": 1513302900,
+    "pubdate_iso": "2017-12-15 09:55:00",
+    "score": 47,
+    "reasons": [
+     "pub_delta_3d",
+     "up:Rayzggz",
+     "kw:直播录制",
+     "dur_plausible",
+     "catalog:space"
+    ],
+    "duration": 14413,
+    "page": null,
+    "source": "space"
+   }
+  ]
+ },
+ "2017-12-13": {
+  "bvid": "BV1jW411a7Kn",
+  "url": "https://www.bilibili.com/video/BV1jW411a7Kn",
+  "title": "【hanser】2017-12-13 直播录制",
+  "author": "Rayzggz",
+  "mid": 10501326,
+  "pubdate": 1513302900,
+  "pubdate_iso": "2017-12-15 09:55:00",
+  "score": 113,
+  "reasons": [
+   "title-date-exact",
+   "pub_delta_2d",
+   "up:Rayzggz",
+   "kw:直播录制",
+   "dur_plausible",
+   "catalog:space"
+  ],
+  "duration": 14413,
+  "page": null,
+  "source": "catalogue",
+  "confidence": "high",
+  "alternates": [
+   {
+    "bvid": "BV1Gb4y1k7MX",
+    "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX",
+    "title": "【2017.12.13】 枕芯花打毛线",
+    "author": "東方延續·HANSER直播合集",
+    "mid": 24076741,
+    "pubdate": null,
+    "pubdate_iso": "",
+    "score": 91,
+    "reasons": [
+     "title-date-exact",
+     "up:東方延續·HANSER直播合集",
+     "dur_plausible",
+     "catalog:multipart"
+    ],
+    "duration": 7208,
+    "page": null,
+    "source": "multipart"
+   },
+   {
+    "bvid": "BV1Gb4y1k7MX",
+    "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX",
+    "title": "【2017.12.13】 枕芯花打毛线",
+    "author": "東方延續·HANSER直播合集",
+    "mid": 24076741,
+    "pubdate": null,
+    "pubdate_iso": "",
+    "score": 91,
+    "reasons": [
+     "title-date-exact",
+     "up:東方延續·HANSER直播合集",
+     "dur_plausible",
+     "catalog:multipart"
+    ],
+    "duration": 7205,
+    "page": null,
+    "source": "multipart"
+   },
+   {
+    "bvid": "BV1KW411a7yy",
+    "url": "https://www.bilibili.com/video/BV1KW411a7yy",
+    "title": "【hanser】2017-12-12 直播录制",
+    "author": "Rayzggz",
+    "mid": 10501326,
+    "pubdate": 1513207730,
+    "pubdate_iso": "2017-12-14 07:28:50",
+    "score": 59,
+    "reasons": [
+     "pub_delta_1d",
+     "up:Rayzggz",
+     "kw:直播录制",
+     "dur_plausible",
+     "catalog:space"
+    ],
+    "duration": 15263,
+    "page": null,
+    "source": "space"
+   }
+  ]
+ },
+ "2017-12-14": {
+  "bvid": "BV1nW411a7eG",
+  "url": "https://www.bilibili.com/video/BV1nW411a7eG",
+  "title": "【hanser】2017-12-14 直播录制",
+  "author": "Rayzggz",
+  "mid": 10501326,
+  "pubdate": 1513326605,
+  "pubdate_iso": "2017-12-15 16:30:05",
+  "score": 119,
+  "reasons": [
+   "title-date-exact",
+   "pub_delta_1d",
+   "up:Rayzggz",
+   "kw:直播录制",
+   "dur_plausible",
+   "catalog:space"
+  ],
+  "duration": 7202,
+  "page": null,
+  "source": "catalogue",
+  "confidence": "high",
+  "alternates": [
+   {
+    "bvid": "BV1Gb4y1k7MX",
+    "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX",
+    "title": "【2017.12.14】",
+    "author": "東方延續·HANSER直播合集",
+    "mid": 24076741,
+    "pubdate": null,
+    "pubdate_iso": "",
+    "score": 91,
+    "reasons": [
+     "title-date-exact",
+     "up:東方延續·HANSER直播合集",
+     "dur_plausible",
+     "catalog:multipart"
+    ],
+    "duration": 7202,
+    "page": null,
+    "source": "multipart"
+   },
+   {
+    "bvid": "BV1KW411a7yy",
+    "url": "https://www.bilibili.com/video/BV1KW411a7yy",
+    "title": "【hanser】2017-12-12 直播录制",
+    "author": "Rayzggz",
+    "mid": 10501326,
+    "pubdate": 1513207730,
+    "pubdate_iso": "2017-12-14 07:28:50",
+    "score": 67,
+    "reasons": [
+     "pub_delta_0d",
+     "up:Rayzggz",
+     "kw:直播录制",
+     "dur_plausible",
+     "catalog:space"
+    ],
+    "duration": 15263,
+    "page": null,
+    "source": "space"
+   },
+   {
+    "bvid": "BV1jW411a7Kn",
+    "url": "https://www.bilibili.com/video/BV1jW411a7Kn",
+    "title": "【hanser】2017-12-13 直播录制",
+    "author": "Rayzggz",
+    "mid": 10501326,
+    "pubdate": 1513302900,
+    "pubdate_iso": "2017-12-15 09:55:00",
+    "score": 59,
+    "reasons": [
+     "pub_delta_1d",
+     "up:Rayzggz",
+     "kw:直播录制",
+     "dur_plausible",
+     "catalog:space"
+    ],
+    "duration": 14413,
+    "page": null,
+    "source": "space"
+   }
+  ]
+ },
+ "2017-12-18": {
+  "bvid": "BV1GW41187zp",
+  "url": "https://www.bilibili.com/video/BV1GW41187zp",
+  "title": "【hanser】2017-12-18/19 直播录制",
+  "author": "Rayzggz",
+  "mid": 10501326,
+  "pubdate": 1513697009,
+  "pubdate_iso": "2017-12-19 23:23:29",
+  "score": 119,
+  "reasons": [
+   "title-date-exact",
+   "pub_delta_1d",
+   "up:Rayzggz",
+   "kw:直播录制",
+   "dur_plausible",
+   "catalog:space"
+  ],
+  "duration": 7544,
+  "page": null,
+  "source": "catalogue",
+  "confidence": "high",
+  "alternates": [
+   {
+    "bvid": "BV1Gb4y1k7MX",
+    "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX",
+    "title": "【2017.12.18】 唱唱聊聊",
+    "author": "東方延續·HANSER直播合集",
+    "mid": 24076741,
+    "pubdate": null,
+    "pubdate_iso": "",
+    "score": 91,
+    "reasons": [
+     "title-date-exact",
+     "up:東方延續·HANSER直播合集",
+     "dur_plausible",
+     "catalog:multipart"
+    ],
+    "duration": 7200,
+    "page": null,
+    "source": "multipart"
+   },
+   {
+    "bvid": "BV1Gb4y1k7MX",
+    "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX",
+    "title": "【2017.12.18】 当地主啊",
+    "author": "東方延續·HANSER直播合集",
+    "mid": 24076741,
+    "pubdate": null,
+    "pubdate_iso": "",
+    "score": 85,
+    "reasons": [
+     "title-date-exact",
+     "up:東方延續·HANSER直播合集",
+     "catalog:multipart"
+    ],
+    "duration": 346,
+    "page": null,
+    "source": "multipart"
+   },
+   {
+    "bvid": "BV1GW41187kt",
+    "url": "https://www.bilibili.com/video/BV1GW41187kt",
+    "title": "【hanser】2017-12-15 直播录制",
+    "author": "Rayzggz",
+    "mid": 10501326,
+    "pubdate": 1513697377,
+    "pubdate_iso": "2017-12-19 23:29:37",
+    "score": 59,
+    "reasons": [
+     "pub_delta_1d",
+     "up:Rayzggz",
+     "kw:直播录制",
+     "dur_plausible",
+     "catalog:space"
+    ],
+    "duration": 9362,
+    "page": null,
+    "source": "space"
+   }
+  ]
+ },
+ "2017-12-20": {
+  "bvid": "BV1aW41187p3",
+  "url": "https://www.bilibili.com/video/BV1aW41187p3",
+  "title": "【hanser】2017-12-20 直播录制",
+  "author": "Rayzggz",
+  "mid": 10501326,
+  "pubdate": 1513873850,
+  "pubdate_iso": "2017-12-22 00:30:50",
+  "score": 113,
+  "reasons": [
+   "title-date-exact",
+   "pub_delta_2d",
+   "up:Rayzggz",
+   "kw:直播录制",
+   "dur_plausible",
+   "catalog:space"
+  ],
+  "duration": 10843,
+  "page": null,
+  "source": "catalogue",
+  "confidence": "high",
+  "alternates": [
+   {
+    "bvid": "BV1Gb4y1k7MX",
+    "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX",
+    "title": "【2017.12.20】 斗地主啊",
+    "author": "東方延續·HANSER直播合集",
+    "mid": 24076741,
+    "pubdate": null,
+    "pubdate_iso": "",
+    "score": 91,
+    "reasons": [
+     "title-date-exact",
+     "up:東方延續·HANSER直播合集",
+     "dur_plausible",
+     "catalog:multipart"
+    ],
+    "duration": 7172,
+    "page": null,
+    "source": "multipart"
+   },
+   {
+    "bvid": "BV1Gb4y1k7MX",
+    "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX",
+    "title": "【2017.12.20】 啊",
+    "author": "東方延續·HANSER直播合集",
+    "mid": 24076741,
+    "pubdate": null,
+    "pubdate_iso": "",
+    "score": 91,
+    "reasons": [
+     "title-date-exact",
+     "up:東方延續·HANSER直播合集",
+     "dur_plausible",
+     "catalog:multipart"
+    ],
+    "duration": 2587,
+    "page": null,
+    "source": "multipart"
+   },
+   {
+    "bvid": "BV1Gb4y1k7MX",
+    "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX",
+    "title": "【2017.12.20】   斗地主啊",
+    "author": "東方延續·HANSER直播合集",
+    "mid": 24076741,
+    "pubdate": null,
+    "pubdate_iso": "",
+    "score": 85,
+    "reasons": [
+     "title-date-exact",
+     "up:東方延續·HANSER直播合集",
+     "catalog:multipart"
+    ],
+    "duration": 1085,
+    "page": null,
+    "source": "multipart"
+   }
+  ]
+ },
+ "2017-12-29": {
+  "bvid": "BV1qW411b7si",
+  "url": "https://www.bilibili.com/video/BV1qW411b7si",
+  "title": "【hanser】2017-12-29 直播录制",
+  "author": "Rayzggz",
+  "mid": 10501326,
+  "pubdate": 1514694274,
+  "pubdate_iso": "2017-12-31 12:24:34",
+  "score": 113,
+  "reasons": [
+   "title-date-exact",
+   "pub_delta_2d",
+   "up:Rayzggz",
+   "kw:直播录制",
+   "dur_plausible",
+   "catalog:space"
+  ],
+  "duration": 10889,
+  "page": null,
+  "source": "catalogue",
+  "confidence": "high",
+  "alternates": [
+   {
+    "bvid": "BV1Gb4y1k7MX",
+    "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX",
+    "title": "【2017.12.29】 该唱歌了啊",
+    "author": "東方延續·HANSER直播合集",
+    "mid": 24076741,
+    "pubdate": null,
+    "pubdate_iso": "",
+    "score": 91,
+    "reasons": [
+     "title-date-exact",
+     "up:東方延續·HANSER直播合集",
+     "dur_plausible",
+     "catalog:multipart"
+    ],
+    "duration": 7203,
+    "page": null,
+    "source": "multipart"
+   },
+   {
+    "bvid": "BV1Gb4y1k7MX",
+    "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX",
+    "title": "【2017.12.29】  该唱歌了啊",
+    "author": "東方延續·HANSER直播合集",
+    "mid": 24076741,
+    "pubdate": null,
+    "pubdate_iso": "",
+    "score": 91,
+    "reasons": [
+     "title-date-exact",
+     "up:東方延續·HANSER直播合集",
+     "dur_plausible",
+     "catalog:multipart"
+    ],
+    "duration": 3686,
+    "page": null,
+    "source": "multipart"
+   },
+   {
+    "bvid": "BV1PW411b7ab",
+    "url": "https://www.bilibili.com/video/BV1PW411b7ab",
+    "title": "【hanser】2017-12-27/28 直播录制",
+    "author": "Rayzggz",
+    "mid": 10501326,
+    "pubdate": 1514508190,
+    "pubdate_iso": "2017-12-29 08:43:10",
+    "score": 67,
+    "reasons": [
+     "pub_delta_0d",
+     "up:Rayzggz",
+     "kw:直播录制",
+     "dur_plausible",
+     "catalog:space"
+    ],
+    "duration": 14717,
+    "page": null,
+    "source": "space"
+   }
+  ]
+ },
+ "2018-03-02": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=70",
+  "title": "【2018.3.2】我的世界~",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 14410,
+  "page": 70,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [
+   {
+    "bvid": "BV1QW411s7Yf",
+    "url": "https://www.bilibili.com/video/BV1QW411s7Yf",
+    "title": "【hanser】2018-02-28 直播录制",
+    "author": "Rayzggz",
+    "mid": 10501326,
+    "pubdate": 1519939210,
+    "pubdate_iso": "2018-03-02 05:20:10",
+    "score": 67,
+    "reasons": [
+     "pub_delta_0d",
+     "up:Rayzggz",
+     "kw:直播录制",
+     "dur_plausible",
+     "catalog:space"
+    ],
+    "duration": 16394,
+    "page": null,
+    "source": "space"
+   },
+   {
+    "bvid": "BV1wW411t7pP",
+    "url": "https://www.bilibili.com/video/BV1wW411t7pP",
+    "title": "【hanser】2018-02-26 直播录制",
+    "author": "Rayzggz",
+    "mid": 10501326,
+    "pubdate": 1519752951,
+    "pubdate_iso": "2018-02-28 01:35:51",
+    "score": 53,
+    "reasons": [
+     "pub_delta_2d",
+     "up:Rayzggz",
+     "kw:直播录制",
+     "dur_plausible",
+     "catalog:space"
+    ],
+    "duration": 15761,
+    "page": null,
+    "source": "space"
+   },
+   {
+    "bvid": "BV14W41147gT",
+    "url": "https://www.bilibili.com/video/BV14W41147gT",
+    "title": "【hanser】2018-02-23 直播录制",
+    "author": "Rayzggz",
+    "mid": 10501326,
+    "pubdate": 1519477411,
+    "pubdate_iso": "2018-02-24 21:03:31",
+    "score": 40,
+    "reasons": [
+     "pub_delta_6d",
+     "up:Rayzggz",
+     "kw:直播录制",
+     "dur_plausible",
+     "catalog:space"
+    ],
+    "duration": 7990,
+    "page": null,
+    "source": "space"
+   }
+  ],
+  "deep_checked": true
+ },
+ "2018-03-05": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=71",
+  "title": "【2018.3.5】展示爱用表情包",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 9747,
+  "page": 71,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [
+   {
+    "bvid": "BV1QW411s7Yf",
+    "url": "https://www.bilibili.com/video/BV1QW411s7Yf",
+    "title": "【hanser】2018-02-28 直播录制",
+    "author": "Rayzggz",
+    "mid": 10501326,
+    "pubdate": 1519939210,
+    "pubdate_iso": "2018-03-02 05:20:10",
+    "score": 47,
+    "reasons": [
+     "pub_delta_3d",
+     "up:Rayzggz",
+     "kw:直播录制",
+     "dur_plausible",
+     "catalog:space"
+    ],
+    "duration": 16394,
+    "page": null,
+    "source": "space"
+   },
+   {
+    "bvid": "BV1wW411t7pP",
+    "url": "https://www.bilibili.com/video/BV1wW411t7pP",
+    "title": "【hanser】2018-02-26 直播录制",
+    "author": "Rayzggz",
+    "mid": 10501326,
+    "pubdate": 1519752951,
+    "pubdate_iso": "2018-02-28 01:35:51",
+    "score": 41,
+    "reasons": [
+     "pub_delta_5d",
+     "up:Rayzggz",
+     "kw:直播录制",
+     "dur_plausible",
+     "catalog:space"
+    ],
+    "duration": 15761,
+    "page": null,
+    "source": "space"
+   }
+  ],
+  "deep_checked": true
+ },
+ "2018-03-06": {
+  "bvid": null,
+  "url": null,
+  "title": "【hanser】2018-02-28 直播录制",
+  "author": "Rayzggz",
+  "mid": 10501326,
+  "pubdate": 1519939210,
+  "pubdate_iso": "2018-03-02 05:20:10",
+  "score": 43,
+  "reasons": [
+   "pub_delta_4d",
+   "up:Rayzggz",
+   "kw:直播录制",
+   "dur_plausible",
+   "catalog:space"
+  ],
+  "duration": 16394,
+  "page": null,
+  "source": "rejected",
+  "confidence": "rejected",
+  "alternates": [
+   {
+    "bvid": "BV1wW411t7pP",
+    "url": "https://www.bilibili.com/video/BV1wW411t7pP",
+    "title": "【hanser】2018-02-26 直播录制",
+    "author": "Rayzggz",
+    "mid": 10501326,
+    "pubdate": 1519752951,
+    "pubdate_iso": "2018-02-28 01:35:51",
+    "score": 40,
+    "reasons": [
+     "pub_delta_6d",
+     "up:Rayzggz",
+     "kw:直播录制",
+     "dur_plausible",
+     "catalog:space"
+    ],
+    "duration": 15761,
+    "page": null,
+    "source": "space"
+   }
+  ],
+  "rejected_bvid": "BV1QW411s7Yf",
+  "rejected_title": "【hanser】2018-02-28 直播录制",
+  "note": "候选标题日期与直播日期不符，已排除"
+ },
+ "2018-03-07": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=72",
+  "title": "【2018.3.7】来呀来呀",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 18101,
+  "page": 72,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [
+   {
+    "bvid": "BV1QW411s7Yf",
+    "url": "https://www.bilibili.com/video/BV1QW411s7Yf",
+    "title": "【hanser】2018-02-28 直播录制",
+    "author": "Rayzggz",
+    "mid": 10501326,
+    "pubdate": 1519939210,
+    "pubdate_iso": "2018-03-02 05:20:10",
+    "score": 41,
+    "reasons": [
+     "pub_delta_5d",
+     "up:Rayzggz",
+     "kw:直播录制",
+     "dur_plausible",
+     "catalog:space"
+    ],
+    "duration": 16394,
+    "page": null,
+    "source": "space"
+   },
+   {
+    "bvid": "BV1wW411t7pP",
+    "url": "https://www.bilibili.com/video/BV1wW411t7pP",
+    "title": "【hanser】2018-02-26 直播录制",
+    "author": "Rayzggz",
+    "mid": 10501326,
+    "pubdate": 1519752951,
+    "pubdate_iso": "2018-02-28 01:35:51",
+    "score": 39,
+    "reasons": [
+     "pub_delta_7d",
+     "up:Rayzggz",
+     "kw:直播录制",
+     "dur_plausible",
+     "catalog:space"
+    ],
+    "duration": 15761,
+    "page": null,
+    "source": "space"
+   }
+  ],
+  "deep_checked": true
+ },
+ "2018-03-09": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=73",
+  "title": "【2018.3.9】我的世界，睡前有鬼故事~",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 14405,
+  "page": 73,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [
+   {
+    "bvid": "BV1QW411s7Yf",
+    "url": "https://www.bilibili.com/video/BV1QW411s7Yf",
+    "title": "【hanser】2018-02-28 直播录制",
+    "author": "Rayzggz",
+    "mid": 10501326,
+    "pubdate": 1519939210,
+    "pubdate_iso": "2018-03-02 05:20:10",
+    "score": 39,
+    "reasons": [
+     "pub_delta_7d",
+     "up:Rayzggz",
+     "kw:直播录制",
+     "dur_plausible",
+     "catalog:space"
+    ],
+    "duration": 16394,
+    "page": null,
+    "source": "space"
+   }
+  ],
+  "deep_checked": true
+ },
+ "2018-03-17": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=75",
+  "title": "【2018.3.17】日本户外~",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 7210,
+  "page": 75,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2018-03-19": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=76",
+  "title": "【2018.3.19】 回国",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 2603,
+  "page": 76,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2018-03-20": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=77",
+  "title": "【2018.3.20】大家展示礼物呀~",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 18420,
+  "page": 77,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2018-03-23": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=78",
+  "title": "【2018.3.23】组团我的世界，睡前有鬼故事~",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 18073,
+  "page": 78,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2018-03-27": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=82",
+  "title": "【2018.3.27】今天看帅哥~",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 15549,
+  "page": 82,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2018-03-28": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=83",
+  "title": "【2018.3.28】说说鬼故事",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 14409,
+  "page": 83,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2018-03-30": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=84",
+  "title": "【2018.3.30】 无终之旅",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 15895,
+  "page": 84,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2018-04-02": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=85",
+  "title": "【2018.4.2】愚人节的有趣经历",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 15317,
+  "page": 85,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2018-04-04": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=86",
+  "title": "【2018.4.4】今天唱歌~",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 15299,
+  "page": 86,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2018-04-06": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=87",
+  "title": "【2018.4.6】To the moon-上",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 7201,
+  "page": 87,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [
+   {
+    "bvid": "BV1Gb4y1k7MX",
+    "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX",
+    "title": "【2018.4.6】To the moon-中",
+    "author": "東方延續·HANSER直播合集",
+    "mid": 24076741,
+    "pubdate": null,
+    "pubdate_iso": "",
+    "score": 91,
+    "reasons": [
+     "title-date-exact",
+     "up:東方延續·HANSER直播合集",
+     "dur_plausible",
+     "catalog:multipart"
+    ],
+    "duration": 7215,
+    "page": null,
+    "source": "multipart"
+   },
+   {
+    "bvid": "BV1Gb4y1k7MX",
+    "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX",
+    "title": "【2018.4.6】To the moon-下",
+    "author": "東方延續·HANSER直播合集",
+    "mid": 24076741,
+    "pubdate": null,
+    "pubdate_iso": "",
+    "score": 91,
+    "reasons": [
+     "title-date-exact",
+     "up:東方延續·HANSER直播合集",
+     "dur_plausible",
+     "catalog:multipart"
+    ],
+    "duration": 6745,
+    "page": null,
+    "source": "multipart"
+   }
+  ],
+  "deep_checked": true
+ },
+ "2018-04-09": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=90",
+  "title": "【2018.4.9】大家来分享做吃的吧~",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 15268,
+  "page": 90,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2018-04-11": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=91",
+  "title": "【2018.4.11】日语教学，泠妹生日快乐！",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 15205,
+  "page": 91,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2018-04-16": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=92",
+  "title": "【2018.4.16】 比惨大会",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 14412,
+  "page": 92,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2018-04-18": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=93",
+  "title": "【2018.4.18】看评论，分享告白经历",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 7210,
+  "page": 93,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2018-04-20": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=94",
+  "title": "【2018.4.20】 玩我和她的世界末日",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 14409,
+  "page": 94,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2018-04-23": {
+  "bvid": null,
+  "source": "none",
+  "confidence": "none",
+  "score": 0
+ },
+ "2018-04-25": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=96",
+  "title": "【2018.4.25】 聊聊天",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 16049,
+  "page": 96,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2018-04-26": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=97",
+  "title": "【2018.4.26】给vtuber们唱歌打分",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 14169,
+  "page": 97,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2018-04-27": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=98",
+  "title": "【2018.4.27 】祝粉",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 16029,
+  "page": 98,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2018-04-30": {
+  "bvid": null,
+  "source": "none",
+  "confidence": "none",
+  "score": 0
+ },
+ "2018-06-01": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=107",
+  "title": "【2018.6.1】 儿童节快乐！",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 11586,
+  "page": 107,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2018-06-04": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=108",
+  "title": "【2018.6.4】 欢乐比惨",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 13657,
+  "page": 108,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2018-06-06": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=109",
+  "title": "【2018.6.6】聊会天~",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 14400,
+  "page": 109,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2018-06-11": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=110",
+  "title": "【2018.6.11】看看分手故事",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 13181,
+  "page": 110,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2018-06-14": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=111",
+  "title": "【2018.6.14】大家一起聊天鸭~",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 8637,
+  "page": 111,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2018-06-15": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=112",
+  "title": "【2018.6.15】逛逛鱼吧~",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 12052,
+  "page": 112,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2018-06-16": {
+  "bvid": null,
+  "source": "none",
+  "confidence": "none",
+  "score": 0
+ },
+ "2018-06-18": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=113",
+  "title": "【2018.6.18】大家展示一下看过最好看的cos",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 12387,
+  "page": 113,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2018-06-20": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=114",
+  "title": "【2018.6.20】日常",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 14408,
+  "page": 114,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2018-06-22": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=115",
+  "title": "【2018.6.22】今天玩一下小游戏",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 15058,
+  "page": 115,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2018-06-25": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=116",
+  "title": "【2018.6.25】大家梦境里的hanser~",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 14403,
+  "page": 116,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2018-06-27": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=117",
+  "title": "【2018.6.27】 关于梦",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 14847,
+  "page": 117,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2018-07-02": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=118",
+  "title": "【2018.7.2 】 划划水",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 11130,
+  "page": 118,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2018-07-04": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=119",
+  "title": "【2018.7.4 】继续划划水",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 14406,
+  "page": 119,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2018-07-06": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=120",
+  "title": "【2018.7.6】  游戏是告白日",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 14411,
+  "page": 120,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2018-07-09": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=121",
+  "title": "【2018.7.9】大家一起展示牌子",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 11787,
+  "page": 121,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2018-07-11": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=122",
+  "title": "【2018.7.11】唱歌啦",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 11593,
+  "page": 122,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2018-07-13": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=123",
+  "title": "【2018.7.13】 游戏时间",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 14403,
+  "page": 123,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2018-07-16": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=124",
+  "title": "【2018.7.16】大家展示一下自己被别人撩的样子",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 14402,
+  "page": 124,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2018-07-18": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=125",
+  "title": "【2018.7.18】  认真划水",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 14404,
+  "page": 125,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2018-07-23": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=127",
+  "title": "【2018.7.23】大家做过最刺激的事是什么",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 13118,
+  "page": 127,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2018-07-25": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=128",
+  "title": "【2018.7.25】划水水",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 15053,
+  "page": 128,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2018-07-30": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=129",
+  "title": "【2018.7.30】划划水",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 14682,
+  "page": 129,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2018-10-01": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=151",
+  "title": "【2018.10.1】今天玩零用钱大作战",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 14404,
+  "page": 151,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2018-10-03": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=152",
+  "title": "【2018.10.3】继续玩零用钱大作战",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 15670,
+  "page": 152,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2018-10-08": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=153",
+  "title": "【2018.10.8】大家说说喜欢的游戏",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 14698,
+  "page": 153,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2018-10-10": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=154",
+  "title": "【2018.10.10】唱歌看帖",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 14728,
+  "page": 154,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2018-10-15": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=155",
+  "title": "【2018.10.15】 天凉好个秋",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 14403,
+  "page": 155,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2018-10-17": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=156",
+  "title": "【2018.10.17】看看女装",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 14749,
+  "page": 156,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2018-10-19": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=157",
+  "title": "【2018.10.19】  憨式家长",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 14818,
+  "page": 157,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2018-10-22": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=158",
+  "title": "【2018.10.22】开心看评论",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 14792,
+  "page": 158,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2018-10-24": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=159",
+  "title": "【2018.10.24】边聊边唱",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 7568,
+  "page": 159,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2018-10-26": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=160",
+  "title": "【2018.10.26】玩VA-11 Hall-A：赛博朋克调酒师行动",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 14402,
+  "page": 160,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2018-10-29": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=161",
+  "title": "【2018.10.29】说说你做过的坏事吧~",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 14893,
+  "page": 161,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2018-10-31": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=162",
+  "title": "【2018.10.31】唱歌看评论哒~",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 14874,
+  "page": 162,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2018-11-02": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=163",
+  "title": "【2018.11.2】继续玩赛博朋克调酒师行动",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 15224,
+  "page": 163,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2018-11-05": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=164",
+  "title": "【2018.11.5】说说经历的灵异的不科学的事情",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 14782,
+  "page": 164,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2018-11-07": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=165",
+  "title": "【2018.11.7】今天有睡前故事",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 14822,
+  "page": 165,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2018-11-09": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=166",
+  "title": "【2018.11.9】今天继续玩调酒师行动~",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 14997,
+  "page": 166,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2018-11-12": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=167",
+  "title": "【2018.11.12】说说印象很深刻的同学或同桌吧",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 14405,
+  "page": 167,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2018-11-14": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=168",
+  "title": "【2018.11.14】睡前看看小视频",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 14409,
+  "page": 168,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2018-11-16": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=169",
+  "title": "【2018.11.16】继继继续调酒师行动",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 14792,
+  "page": 169,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2018-11-20": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=170",
+  "title": "【2018.11.20】说说印象深刻的生病经历吧~",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 14404,
+  "page": 170,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2018-11-21": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=171",
+  "title": "【2018.11.21】种草莓 上",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 1405,
+  "page": 171,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [
+   {
+    "bvid": "BV1Gb4y1k7MX",
+    "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX",
+    "title": "【2018.11.21】种草莓 下",
+    "author": "東方延續·HANSER直播合集",
+    "mid": 24076741,
+    "pubdate": null,
+    "pubdate_iso": "",
+    "score": 91,
+    "reasons": [
+     "title-date-exact",
+     "up:東方延續·HANSER直播合集",
+     "dur_plausible",
+     "catalog:multipart"
+    ],
+    "duration": 5751,
+    "page": null,
+    "source": "multipart"
+   }
+  ],
+  "deep_checked": true
+ },
+ "2018-11-23": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=173",
+  "title": "【2018.11.23】又是调酒师时间",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 15325,
+  "page": 173,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2018-11-26": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=174",
+  "title": "【2018.11.26】大家吐槽一下舍友趣事~",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 14819,
+  "page": 174,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2018-11-28": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=175",
+  "title": "【2018.11.28】看评论，讨论新闻，睡前看看烧烤视频",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 14397,
+  "page": 175,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2019-01-02": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=186",
+  "title": "【2019.1.2】飞起来了",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 15085,
+  "page": 186,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2019-01-04": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=187",
+  "title": "【2019.1.4】到处逛逛",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 14793,
+  "page": 187,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2019-01-07": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=188",
+  "title": "【2019.1.7】herewego",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 14392,
+  "page": 188,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2019-01-08": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=189",
+  "title": "【2019.1.8】大家寒假有什么安排吗~",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 14395,
+  "page": 189,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2019-01-09": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=190",
+  "title": "【2019.1.9】余音绕梁",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 15189,
+  "page": 190,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2019-01-16": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=191",
+  "title": "【2019.1.16】大家说说你从别人那听到自己的传闻",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 14405,
+  "page": 191,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2019-01-17": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=192",
+  "title": "【2019.1.17】上班了，唱唱歌~",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 14387,
+  "page": 192,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2019-01-18": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=193",
+  "title": "【2019.1.18】今天天气很棒啊~",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 14406,
+  "page": 193,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2019-01-21": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=194",
+  "title": "【2019.1.21】大家说说自己的怪癖吧",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 14798,
+  "page": 194,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2019-01-23": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=195",
+  "title": "【2019.1.23】唱唱歌，继续看帖~",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 14404,
+  "page": 195,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2019-01-27": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=196",
+  "title": "【2019.1.27】入冬啦，大家注意保暖~",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 13447,
+  "page": 196,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2019-01-28": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=197",
+  "title": "【2019.1.28】欢乐聊天",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 14411,
+  "page": 197,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2019-01-30": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=198",
+  "title": "【2019.1.30】今天聊三个小时的~",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 13780,
+  "page": 198,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2019-02-01": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=199",
+  "title": "【2019.2.1】憨式家长",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 14407,
+  "page": 199,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2019-02-05": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=200",
+  "title": "【2019.2.5】说说2019的期望和目标吧~",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 15060,
+  "page": 200,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2019-02-11": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=201",
+  "title": "【2019.2.11】说说过年的有趣经历~",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 14411,
+  "page": 201,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2019-02-13": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=202",
+  "title": "【2019.2.13】又唱又聊又看视频~",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 14406,
+  "page": 202,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2019-02-14": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=203",
+  "title": "【2019.2.14】 比惨（划掉）告白大会",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 14930,
+  "page": 203,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2019-02-15": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=204",
+  "title": "【2019.2.15】今天玩《The liars》我配音了小舔狗 全程狗语",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 18381,
+  "page": 204,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2019-02-18": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=205",
+  "title": "【2019.2.18】如果世界末日了你会干什么？",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 15058,
+  "page": 205,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2019-02-19": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=206",
+  "title": "【2019.2.19】今天播完就下周见啦~",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 14355,
+  "page": 206,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2019-02-26": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=207",
+  "title": "【2019.2.26】大家展示一下手机里的壁纸和头像 上",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 7203,
+  "page": 207,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [
+   {
+    "bvid": "BV1Gb4y1k7MX",
+    "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX",
+    "title": "【2019.2.26】大家展示一下手机里的壁纸和头像 下",
+    "author": "東方延續·HANSER直播合集",
+    "mid": 24076741,
+    "pubdate": null,
+    "pubdate_iso": "",
+    "score": 91,
+    "reasons": [
+     "title-date-exact",
+     "up:東方延續·HANSER直播合集",
+     "dur_plausible",
+     "catalog:multipart"
+    ],
+    "duration": 7204,
+    "page": null,
+    "source": "multipart"
+   }
+  ],
+  "deep_checked": true
+ },
+ "2019-02-27": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=209",
+  "title": "【2019.2.27】今天唱好听的歌~",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 15163,
+  "page": 209,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2019-03-01": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=210",
+  "title": "【2019.3.1】憨形守护者",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 14410,
+  "page": 210,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2019-03-04": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=211",
+  "title": "【2019.3.4】大家说说团游经历 上",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 7201,
+  "page": 211,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [
+   {
+    "bvid": "BV1Gb4y1k7MX",
+    "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX",
+    "title": "【2019.3.4】大家说说团游经历 下",
+    "author": "東方延續·HANSER直播合集",
+    "mid": 24076741,
+    "pubdate": null,
+    "pubdate_iso": "",
+    "score": 91,
+    "reasons": [
+     "title-date-exact",
+     "up:東方延續·HANSER直播合集",
+     "dur_plausible",
+     "catalog:multipart"
+    ],
+    "duration": 7669,
+    "page": null,
+    "source": "multipart"
+   }
+  ],
+  "deep_checked": true
+ },
+ "2019-03-06": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=213",
+  "title": "【2019.3.6】聊天唱歌看评论~",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 14011,
+  "page": 213,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2019-03-08": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=214",
+  "title": "【2019.3.8】我-憨形守护者~",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 15067,
+  "page": 214,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2019-03-11": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=215",
+  "title": "【2019.3.11】大家说说自己的家长 上",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 7172,
+  "page": 215,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [
+   {
+    "bvid": "BV1Gb4y1k7MX",
+    "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX",
+    "title": "【2019.3.11】大家说说自己的家长 下",
+    "author": "東方延續·HANSER直播合集",
+    "mid": 24076741,
+    "pubdate": null,
+    "pubdate_iso": "",
+    "score": 91,
+    "reasons": [
+     "title-date-exact",
+     "up:東方延續·HANSER直播合集",
+     "dur_plausible",
+     "catalog:multipart"
+    ],
+    "duration": 7206,
+    "page": null,
+    "source": "multipart"
+   }
+  ],
+  "deep_checked": true
+ },
+ "2019-03-13": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=217",
+  "title": "【2019.3.13】唱歌看评打游戏~ 上",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 7204,
+  "page": 217,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [
+   {
+    "bvid": "BV1Gb4y1k7MX",
+    "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX",
+    "title": "【2019.3.13】唱歌看评打游戏~ 下",
+    "author": "東方延續·HANSER直播合集",
+    "mid": 24076741,
+    "pubdate": null,
+    "pubdate_iso": "",
+    "score": 91,
+    "reasons": [
+     "title-date-exact",
+     "up:東方延續·HANSER直播合集",
+     "dur_plausible",
+     "catalog:multipart"
+    ],
+    "duration": 7205,
+    "page": null,
+    "source": "multipart"
+   }
+  ],
+  "deep_checked": true
+ },
+ "2019-03-15": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=219",
+  "title": "【2019.3.15】憨形守护者大结局",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 14289,
+  "page": 219,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2019-03-18": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=220",
+  "title": "【2019.3.18】说说印象深刻的说谎经历",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 7207,
+  "page": 220,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2019-03-20": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=221",
+  "title": "【2019.3.20】来呀来呀来我这里喝一杯~",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 14406,
+  "page": 221,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2019-03-21": {
+  "bvid": null,
+  "source": "none",
+  "confidence": "none",
+  "score": 0
+ },
+ "2019-03-22": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=222",
+  "title": "【2019.3.22】今天玩《主播经济公司》",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 15089,
+  "page": 222,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2019-03-24": {
+  "bvid": null,
+  "source": "none",
+  "confidence": "none",
+  "score": 0
+ },
+ "2019-03-25": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=223",
+  "title": "【2019.3.25】简简单单，美好日常~",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 7205,
+  "page": 223,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2019-03-26": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=224",
+  "title": "【2019.3.26】大家有没有被人打过呢~",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 11125,
+  "page": 224,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2019-03-27": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=225",
+  "title": "【2019.3.27】摸鱼",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 14391,
+  "page": 225,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2019-03-28": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=226",
+  "title": "【2019.3.28】今天玩《晚班》",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 14405,
+  "page": 226,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2019-04-01": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=227",
+  "title": "【2019.4.1】看看大家画的我 上",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 7201,
+  "page": 227,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [
+   {
+    "bvid": "BV1Gb4y1k7MX",
+    "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX",
+    "title": "【2019.4.1】看看大家画的我 下",
+    "author": "東方延續·HANSER直播合集",
+    "mid": 24076741,
+    "pubdate": null,
+    "pubdate_iso": "",
+    "score": 91,
+    "reasons": [
+     "title-date-exact",
+     "up:東方延續·HANSER直播合集",
+     "dur_plausible",
+     "catalog:multipart"
+    ],
+    "duration": 7202,
+    "page": null,
+    "source": "multipart"
+   }
+  ],
+  "deep_checked": true
+ },
+ "2019-04-08": {
+  "bvid": null,
+  "source": "none",
+  "confidence": "none",
+  "score": 0
+ },
+ "2019-04-09": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=229",
+  "title": "【2019.4.9】聊天打牌喝喝水",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 14417,
+  "page": 229,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2019-04-10": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=230",
+  "title": "【2019.4.10】大家分享一下运势经历吧~",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 14203,
+  "page": 230,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2019-04-11": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=231",
+  "title": "【2019.4.11】嘿周四！",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 14414,
+  "page": 231,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2019-04-12": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=232",
+  "title": "【2019.4.12】唱歌游戏打牌的快乐生活",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 14826,
+  "page": 232,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2019-04-16": {
+  "bvid": null,
+  "source": "none",
+  "confidence": "none",
+  "score": 0
+ },
+ "2019-04-17": {
+  "bvid": null,
+  "source": "none",
+  "confidence": "none",
+  "score": 0
+ },
+ "2019-04-18": {
+  "bvid": null,
+  "source": "none",
+  "confidence": "none",
+  "score": 0
+ },
+ "2019-04-22": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=234",
+  "title": "【2019.4.22】突然得到一亿你会怎么花",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 14381,
+  "page": 234,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2019-04-24": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=235",
+  "title": "【2019.4.24】唱歌啦 上",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 7201,
+  "page": 235,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [
+   {
+    "bvid": "BV1Gb4y1k7MX",
+    "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX",
+    "title": "【2019.4.24】看评啦 下",
+    "author": "東方延續·HANSER直播合集",
+    "mid": 24076741,
+    "pubdate": null,
+    "pubdate_iso": "",
+    "score": 91,
+    "reasons": [
+     "title-date-exact",
+     "up:東方延續·HANSER直播合集",
+     "dur_plausible",
+     "catalog:multipart"
+    ],
+    "duration": 7201,
+    "page": null,
+    "source": "multipart"
+   }
+  ],
+  "deep_checked": true
+ },
+ "2019-04-26": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=237",
+  "title": "【2019.4.26】今天玩《price》（我有参与配音~）",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 14799,
+  "page": 237,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2019-04-29": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=238",
+  "title": "【2019.4.29】如果你能隐形，你会干嘛？",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 13827,
+  "page": 238,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2019-05-06": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=241",
+  "title": "【2019.5.6】下辈子不做人了你希望变成什么？",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 12160,
+  "page": 241,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2019-05-08": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=242",
+  "title": "【2019.5.8】飞机赶掉了QAQ,唠唠嗑~",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 3896,
+  "page": 242,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2019-05-11": {
+  "bvid": null,
+  "source": "none",
+  "confidence": "none",
+  "score": 0
+ },
+ "2019-05-13": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=245",
+  "title": "【2019.5.13】今天唱歌~",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 14323,
+  "page": 245,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2019-05-15": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=246",
+  "title": "【2019.5.15】明早要录音，今天早点下",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 7614,
+  "page": 246,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2019-05-20": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=247",
+  "title": "【2019.5.20】说说你想象中偶像的日常生活~",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 14495,
+  "page": 247,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2019-05-22": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=248",
+  "title": "【2019.5.22】唱歌看评 ~ 上",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 7204,
+  "page": 248,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [
+   {
+    "bvid": "BV1Gb4y1k7MX",
+    "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX",
+    "title": "【2019.5.22】看评论~ 下",
+    "author": "東方延續·HANSER直播合集",
+    "mid": 24076741,
+    "pubdate": null,
+    "pubdate_iso": "",
+    "score": 91,
+    "reasons": [
+     "title-date-exact",
+     "up:東方延續·HANSER直播合集",
+     "dur_plausible",
+     "catalog:multipart"
+    ],
+    "duration": 7205,
+    "page": null,
+    "source": "multipart"
+   }
+  ],
+  "deep_checked": true
+ },
+ "2019-05-24": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=250",
+  "title": "【2019.5.24】今台玩《女装妹妹》",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 14868,
+  "page": 250,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2019-06-06": {
+  "bvid": null,
+  "source": "none",
+  "confidence": "none",
+  "score": 0
+ },
+ "2019-06-07": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=252",
+  "title": "【2019.6.7】继续玩《女装妹妹》",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 15040,
+  "page": 252,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2019-06-10": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=253",
+  "title": "【2019.6.10】说说离开学校后让你挂心的人和事",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 15239,
+  "page": 253,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2019-06-12": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=254",
+  "title": "【2019.6.12】继续看离校后挂心的事",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 14398,
+  "page": 254,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2019-06-17": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=255",
+  "title": "【2019.6.17】如果你是up主，你会传什么投稿呢？",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 15337,
+  "page": 255,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2019-06-19": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=256",
+  "title": "【2019.6.19】继续讨论传什么投稿",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 13610,
+  "page": 256,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2019-06-21": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=257",
+  "title": "【2019.6.21】今天玩《作业疯了》",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 14301,
+  "page": 257,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2019-06-24": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=258",
+  "title": "【2019.6.24】尝试积分制",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 7204,
+  "page": 258,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2019-06-26": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=259",
+  "title": "【2019.6.26】讨论梦境",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 11090,
+  "page": 259,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2019-06-28": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=260",
+  "title": "【2019.6.28】水管爆了，今天早点下~",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 4331,
+  "page": 260,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [],
+  "deep_checked": true
+ },
+ "2019-07-01": {
+  "bvid": null,
+  "source": "none",
+  "confidence": "none",
+  "score": 0
+ },
+ "2019-07-29": {
+  "bvid": null,
+  "source": "none",
+  "confidence": "none",
+  "score": 0
+ },
+ "2019-09-06": {
+  "bvid": null,
+  "source": "none",
+  "confidence": "none",
+  "score": 0
+ },
+ "2019-09-30": {
+  "bvid": null,
+  "source": "none",
+  "confidence": "none",
+  "score": 0
+ },
+ "2019-10-28": {
+  "bvid": null,
+  "url": null,
+  "title": "『Hanser』2019年10月28号直播实录",
+  "author": "Hanser直播高能精剪",
+  "mid": 317478069,
+  "pubdate": 1572499941,
+  "pubdate_iso": "2019-10-31 13:32:21",
+  "score": 76,
+  "reasons": [
+   "title-date-exact",
+   "pub_delta_3d",
+   "dur_plausible"
+  ],
+  "duration": 14797,
+  "page": null,
+  "source": "rejected",
+  "confidence": "rejected",
+  "alternates": [
+   {
+    "bvid": "BV1BE411y7Yp",
+    "url": "https://www.bilibili.com/video/BV1BE411y7Yp",
+    "title": "2019年10月23号Hanser直播实录",
+    "author": "Hanser直播高能精剪",
+    "mid": 317478069,
+    "pubdate": 1571899884,
+    "pubdate_iso": "2019-10-24 14:51:24",
+    "score": 12,
+    "reasons": [
+     "pub_delta_4d",
+     "dur_plausible"
+    ],
+    "duration": 14593,
+    "page": null,
+    "source": "search"
+   }
+  ],
+  "rejected_bvid": "BV1UE411b71N",
+  "rejected_title": "『Hanser』2019年10月28号直播实录",
+  "note": "候选标题日期与直播日期不符，已排除"
+ },
+ "2019-12-03": {
+  "bvid": "BV1Gb4y1k7MX",
+  "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX?p=309",
+  "title": "【2019.12.3】",
+  "author": "東方延續·HANSER直播合集",
+  "mid": 24076741,
+  "pubdate": null,
+  "pubdate_iso": "",
+  "score": 91,
+  "reasons": [
+   "title-date-exact",
+   "up:東方延續·HANSER直播合集",
+   "dur_plausible",
+   "catalog:multipart"
+  ],
+  "duration": 7203,
+  "page": 309,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [
+   {
+    "bvid": "BV1Gb4y1k7MX",
+    "url": "https://www.bilibili.com/video/BV1Gb4y1k7MX",
+    "title": "【2019.12.3】",
+    "author": "東方延續·HANSER直播合集",
+    "mid": 24076741,
+    "pubdate": null,
+    "pubdate_iso": "",
+    "score": 91,
+    "reasons": [
+     "title-date-exact",
+     "up:東方延續·HANSER直播合集",
+     "dur_plausible",
+     "catalog:multipart"
+    ],
+    "duration": 7204,
+    "page": null,
+    "source": "multipart"
+   }
+  ],
+  "deep_checked": true
+ },
+ "2020-05-27": {
+  "bvid": null,
+  "url": null,
+  "title": "【Hanser录播】20-5-25",
+  "author": "hanser的aisaka",
+  "mid": 7521963,
+  "pubdate": 1590489727,
+  "pubdate_iso": "2020-05-26 18:42:07",
+  "score": 68,
+  "reasons": [
+   "pub_delta_1d",
+   "up:hanser的aisaka",
+   "kw:录播",
+   "title_hint_partial",
+   "dur_plausible",
+   "catalog:space"
+  ],
+  "duration": 14410,
+  "page": null,
+  "source": "rejected",
+  "confidence": "rejected",
+  "alternates": [
+   {
+    "bvid": "BV1Xa4y1e7Aa",
+    "url": "https://www.bilibili.com/video/BV1Xa4y1e7Aa",
+    "title": "【Hanser录播】20-5-22",
+    "author": "hanser的aisaka",
+    "mid": 7521963,
+    "pubdate": 1590489347,
+    "pubdate_iso": "2020-05-26 18:35:47",
+    "score": 68,
+    "reasons": [
+     "pub_delta_1d",
+     "up:hanser的aisaka",
+     "kw:录播",
+     "title_hint_partial",
+     "dur_plausible",
+     "catalog:space"
+    ],
+    "duration": 14879,
+    "page": null,
+    "source": "space"
+   },
+   {
+    "bvid": "BV1pV411C7TE",
+    "url": "https://www.bilibili.com/video/BV1pV411C7TE",
+    "title": "【Hanser录播】20-5-20",
+    "author": "hanser的aisaka",
+    "mid": 7521963,
+    "pubdate": 1590486097,
+    "pubdate_iso": "2020-05-26 17:41:37",
+    "score": 68,
+    "reasons": [
+     "pub_delta_1d",
+     "up:hanser的aisaka",
+     "kw:录播",
+     "title_hint_partial",
+     "dur_plausible",
+     "catalog:space"
+    ],
+    "duration": 11474,
+    "page": null,
+    "source": "space"
+   }
+  ],
+  "rejected_bvid": "BV1bf4y127YC",
+  "rejected_title": "【Hanser录播】20-5-25",
+  "note": "候选标题日期与直播日期不符，已排除"
+ },
+ "2020-05-29": {
+  "bvid": null,
+  "url": null,
+  "title": "【Hanser录播】20-5-25",
+  "author": "hanser的aisaka",
+  "mid": 7521963,
+  "pubdate": 1590489727,
+  "pubdate_iso": "2020-05-26 18:42:07",
+  "score": 56,
+  "reasons": [
+   "pub_delta_3d",
+   "up:hanser的aisaka",
+   "kw:录播",
+   "title_hint_partial",
+   "dur_plausible",
+   "catalog:space"
+  ],
+  "duration": 14410,
+  "page": null,
+  "source": "rejected",
+  "confidence": "rejected",
+  "alternates": [
+   {
+    "bvid": "BV1Xa4y1e7Aa",
+    "url": "https://www.bilibili.com/video/BV1Xa4y1e7Aa",
+    "title": "【Hanser录播】20-5-22",
+    "author": "hanser的aisaka",
+    "mid": 7521963,
+    "pubdate": 1590489347,
+    "pubdate_iso": "2020-05-26 18:35:47",
+    "score": 56,
+    "reasons": [
+     "pub_delta_3d",
+     "up:hanser的aisaka",
+     "kw:录播",
+     "title_hint_partial",
+     "dur_plausible",
+     "catalog:space"
+    ],
+    "duration": 14879,
+    "page": null,
+    "source": "space"
+   },
+   {
+    "bvid": "BV1pV411C7TE",
+    "url": "https://www.bilibili.com/video/BV1pV411C7TE",
+    "title": "【Hanser录播】20-5-20",
+    "author": "hanser的aisaka",
+    "mid": 7521963,
+    "pubdate": 1590486097,
+    "pubdate_iso": "2020-05-26 17:41:37",
+    "score": 56,
+    "reasons": [
+     "pub_delta_3d",
+     "up:hanser的aisaka",
+     "kw:录播",
+     "title_hint_partial",
+     "dur_plausible",
+     "catalog:space"
+    ],
+    "duration": 11474,
+    "page": null,
+    "source": "space"
+   }
+  ],
+  "rejected_bvid": "BV1bf4y127YC",
+  "rejected_title": "【Hanser录播】20-5-25",
+  "note": "候选标题日期与直播日期不符，已排除"
+ },
+ "2021-11-12": {
+  "bvid": null,
+  "url": null,
+  "title": "【直播回放】出差了 下周见 2021年11月10日19点场",
+  "author": "hanser",
+  "mid": 11073,
+  "pubdate": 1636573493,
+  "pubdate_iso": "2021-11-11 03:44:53",
+  "score": 67,
+  "reasons": [
+   "pub_delta_1d",
+   "up:hanser (official)",
+   "kw:直播回放",
+   "dur_plausible",
+   "catalog:series"
+  ],
+  "duration": 11461,
+  "page": null,
+  "source": "rejected",
+  "confidence": "rejected",
+  "alternates": [
+   {
+    "bvid": "BV1i44y1e7ZW",
+    "url": "https://www.bilibili.com/video/BV1i44y1e7ZW",
+    "title": "【直播回放】划水儿 看片儿 2021年11月9日20点场",
+    "author": "hanser",
+    "mid": 11073,
+    "pubdate": 1636487592,
+    "pubdate_iso": "2021-11-10 03:53:12",
+    "score": 61,
+    "reasons": [
+     "pub_delta_2d",
+     "up:hanser (official)",
+     "kw:直播回放",
+     "dur_plausible",
+     "catalog:series"
+    ],
+    "duration": 11847,
+    "page": null,
+    "source": "series"
+   },
+   {
+    "bvid": "BV13U4y1M7aM",
+    "url": "https://www.bilibili.com/video/BV13U4y1M7aM",
+    "title": "【直播回放】怎么就立冬了呢！ 2021年11月8日19点场",
+    "author": "hanser",
+    "mid": 11073,
+    "pubdate": 1636400198,
+    "pubdate_iso": "2021-11-09 03:36:38",
+    "score": 55,
+    "reasons": [
+     "pub_delta_3d",
+     "up:hanser (official)",
+     "kw:直播回放",
+     "dur_plausible",
+     "catalog:series"
+    ],
+    "duration": 11431,
+    "page": null,
+    "source": "series"
+   },
+   {
+    "bvid": "BV1yf4y1T7tp",
+    "url": "https://www.bilibili.com/video/BV1yf4y1T7tp",
+    "title": "【直播回放】回家啦 2021年11月16日19点场",
+    "author": "hanser",
+    "mid": 11073,
+    "pubdate": 1637091451,
+    "pubdate_iso": "2021-11-17 03:37:31",
+    "score": 49,
+    "reasons": [
+     "pub_delta_5d",
+     "up:hanser (official)",
+     "kw:直播回放",
+     "dur_plausible",
+     "catalog:series"
+    ],
+    "duration": 11200,
+    "page": null,
+    "source": "series"
+   }
+  ],
+  "rejected_bvid": "BV1Rr4y1C7yf",
+  "rejected_title": "【直播回放】出差了 下周见 2021年11月10日19点场",
+  "note": "候选标题日期与直播日期不符，已排除"
+ },
+ "2022-04-23": {
+  "bvid": null,
+  "url": null,
+  "title": "【直播回放】呀 查房 2022年4月22日20点场",
+  "author": "hanser",
+  "mid": 11073,
+  "pubdate": 1650655248,
+  "pubdate_iso": "2022-04-23 03:20:48",
+  "score": 75,
+  "reasons": [
+   "pub_delta_0d",
+   "up:hanser (official)",
+   "kw:直播回放",
+   "dur_plausible",
+   "catalog:series"
+  ],
+  "duration": 11306,
+  "page": null,
+  "source": "rejected",
+  "confidence": "rejected",
+  "alternates": [
+   {
+    "bvid": "BV1BR4y1N7o6",
+    "url": "https://www.bilibili.com/video/BV1BR4y1N7o6",
+    "title": "【直播回放】继续看老番 2022年4月20日20点场",
+    "author": "hanser",
+    "mid": 11073,
+    "pubdate": 1650496966,
+    "pubdate_iso": "2022-04-21 07:22:46",
+    "score": 61,
+    "reasons": [
+     "pub_delta_2d",
+     "up:hanser (official)",
+     "kw:直播回放",
+     "dur_plausible",
+     "catalog:series"
+    ],
+    "duration": 13435,
+    "page": null,
+    "source": "series"
+   },
+   {
+    "bvid": "BV1MF411T7z4",
+    "url": "https://www.bilibili.com/video/BV1MF411T7z4",
+    "title": "【直播回放】长假要来啦 2022年4月25日20点场",
+    "author": "hanser",
+    "mid": 11073,
+    "pubdate": 1650914255,
+    "pubdate_iso": "2022-04-26 03:17:35",
+    "score": 55,
+    "reasons": [
+     "pub_delta_3d",
+     "up:hanser (official)",
+     "kw:直播回放",
+     "dur_plausible",
+     "catalog:series"
+    ],
+    "duration": 11468,
+    "page": null,
+    "source": "series"
+   },
+   {
+    "bvid": "BV1jr4y1J7DM",
+    "url": "https://www.bilibili.com/video/BV1jr4y1J7DM",
+    "title": "【直播回放】措手不及啊 2022年4月18日20点场",
+    "author": "hanser",
+    "mid": 11073,
+    "pubdate": 1650319459,
+    "pubdate_iso": "2022-04-19 06:04:19",
+    "score": 51,
+    "reasons": [
+     "pub_delta_4d",
+     "up:hanser (official)",
+     "kw:直播回放",
+     "dur_plausible",
+     "catalog:series"
+    ],
+    "duration": 10539,
+    "page": null,
+    "source": "series"
+   }
+  ],
+  "rejected_bvid": "BV1GT4y1r79C",
+  "rejected_title": "【直播回放】呀 查房 2022年4月22日20点场",
+  "note": "候选标题日期与直播日期不符，已排除"
+ },
+ "2022-10-05": {
+  "bvid": null,
+  "url": null,
+  "title": "【直播回放】朋友们假期愉快呀~ 2022年10月3日19点场",
+  "author": "hanser",
+  "mid": 11073,
+  "pubdate": 1664836818,
+  "pubdate_iso": "2022-10-04 06:40:18",
+  "score": 67,
+  "reasons": [
+   "pub_delta_1d",
+   "up:hanser (official)",
+   "kw:直播回放",
+   "dur_plausible",
+   "catalog:series"
+  ],
+  "duration": 21712,
+  "page": null,
+  "source": "rejected",
+  "confidence": "rejected",
+  "alternates": [
+   {
+    "bvid": "BV1ye4y1n7mw",
+    "url": "https://www.bilibili.com/video/BV1ye4y1n7mw",
+    "title": "【直播回放】每次躺着伸懒腰都觉得自己有1m8 2022年10月10日14点场",
+    "author": "hanser",
+    "mid": 11073,
+    "pubdate": 1665389288,
+    "pubdate_iso": "2022-10-10 16:08:08",
+    "score": 49,
+    "reasons": [
+     "pub_delta_5d",
+     "up:hanser (official)",
+     "kw:直播回放",
+     "dur_plausible",
+     "catalog:series"
+    ],
+    "duration": 3630,
+    "page": null,
+    "source": "series"
+   },
+   {
+    "bvid": "BV1E44y1f7iY",
+    "url": "https://www.bilibili.com/video/BV1E44y1f7iY",
+    "title": "【直播回放】每次躺着伸懒腰都觉得自己有1m8 2022年10月9日20点场",
+    "author": "hanser",
+    "mid": 11073,
+    "pubdate": 1665350762,
+    "pubdate_iso": "2022-10-10 05:26:02",
+    "score": 49,
+    "reasons": [
+     "pub_delta_5d",
+     "up:hanser (official)",
+     "kw:直播回放",
+     "dur_plausible",
+     "catalog:series"
+    ],
+    "duration": 10745,
+    "page": null,
+    "source": "series"
+   },
+   {
+    "bvid": "BV12841147a7",
+    "url": "https://www.bilibili.com/video/BV12841147a7",
+    "title": "【直播回放】再和小缘一起播一会儿 2022年9月29日23点场",
+    "author": "hanser",
+    "mid": 11073,
+    "pubdate": 1664494185,
+    "pubdate_iso": "2022-09-30 07:29:45",
+    "score": 49,
+    "reasons": [
+     "pub_delta_5d",
+     "up:hanser (official)",
+     "kw:直播回放",
+     "dur_plausible",
+     "catalog:series"
+    ],
+    "duration": 6689,
+    "page": null,
+    "source": "series"
+   }
+  ],
+  "rejected_bvid": "BV1oD4y1C7Vh",
+  "rejected_title": "【直播回放】朋友们假期愉快呀~ 2022年10月3日19点场",
+  "note": "候选标题日期与直播日期不符，已排除"
+ },
+ "2022-12-28": {
+  "bvid": null,
+  "url": null,
+  "title": "【直播回放】随便回溯时间会翻车的!（打电动 2022年12月27日20点场",
+  "author": "hanser",
+  "mid": 11073,
+  "pubdate": 1672182011,
+  "pubdate_iso": "2022-12-28 07:00:11",
+  "score": 75,
+  "reasons": [
+   "pub_delta_0d",
+   "up:hanser (official)",
+   "kw:直播回放",
+   "dur_plausible",
+   "catalog:series"
+  ],
+  "duration": 13949,
+  "page": null,
+  "source": "rejected",
+  "confidence": "rejected",
+  "alternates": [
+   {
+    "bvid": "BV1Zv4y1z7FX",
+    "url": "https://www.bilibili.com/video/BV1Zv4y1z7FX",
+    "title": "【直播回放】游戏的怪也打了我 为什么是我“打游戏” 2022年12月26日20点场",
+    "author": "hanser",
+    "mid": 11073,
+    "pubdate": 1672105125,
+    "pubdate_iso": "2022-12-27 09:38:45",
+    "score": 67,
+    "reasons": [
+     "pub_delta_1d",
+     "up:hanser (official)",
+     "kw:直播回放",
+     "dur_plausible",
+     "catalog:series"
+    ],
+    "duration": 13541,
+    "page": null,
+    "source": "series"
+   },
+   {
+    "bvid": "BV1wg411x7rz",
+    "url": "https://www.bilibili.com/video/BV1wg411x7rz",
+    "title": "【直播回放】只跨个年就下～ 2022年12月31日23点场",
+    "author": "hanser",
+    "mid": 11073,
+    "pubdate": 1672516781,
+    "pubdate_iso": "2023-01-01 03:59:41",
+    "score": 51,
+    "reasons": [
+     "pub_delta_4d",
+     "up:hanser (official)",
+     "kw:直播回放",
+     "dur_plausible",
+     "catalog:series"
+    ],
+    "duration": 1896,
+    "page": null,
+    "source": "series"
+   },
+   {
+    "bvid": "BV1ge4y1j7kG",
+    "url": "https://www.bilibili.com/video/BV1ge4y1j7kG",
+    "title": "【直播回放】当音乐区up主真是太好啦! 2022年12月23日20点场",
+    "author": "hanser",
+    "mid": 11073,
+    "pubdate": 1671818300,
+    "pubdate_iso": "2022-12-24 01:58:20",
+    "score": 51,
+    "reasons": [
+     "pub_delta_4d",
+     "up:hanser (official)",
+     "kw:直播回放",
+     "dur_plausible",
+     "catalog:series"
+    ],
+    "duration": 7360,
+    "page": null,
+    "source": "series"
+   }
+  ],
+  "rejected_bvid": "BV1pK411i7K5",
+  "rejected_title": "【直播回放】随便回溯时间会翻车的!（打电动 2022年12月27日20点场",
+  "note": "候选标题日期与直播日期不符，已排除"
+ },
+ "2023-05-25": {
+  "bvid": "BV1yg4y1c71Q",
+  "url": "https://www.bilibili.com/video/BV1yg4y1c71Q",
+  "title": "【直播回放】5D回 2023年5月24日21点场",
+  "author": "hanser",
+  "mid": 11073,
+  "pubdate": 1684957367,
+  "pubdate_iso": "2023-05-25 03:42:47",
+  "score": 90,
+  "reasons": [
+   "pub_delta_0d",
+   "up:hanser (official)",
+   "kw:直播回放",
+   "title_hint",
+   "dur_plausible",
+   "catalog:series"
+  ],
+  "duration": 13775,
+  "page": null,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [
+   {
+    "bvid": "BV1TT41147dc",
+    "url": "https://www.bilibili.com/video/BV1TT41147dc",
+    "title": "【直播回放】4D回 2023年5月23日20点场",
+    "author": "hanser",
+    "mid": 11073,
+    "pubdate": 1684882420,
+    "pubdate_iso": "2023-05-24 06:53:40",
+    "score": 67,
+    "reasons": [
+     "pub_delta_1d",
+     "up:hanser (official)",
+     "kw:直播回放",
+     "dur_plausible",
+     "catalog:series"
+    ],
+    "duration": 11025,
+    "page": null,
+    "source": "series"
+   },
+   {
+    "bvid": "BV1tV4y1B7as",
+    "url": "https://www.bilibili.com/video/BV1tV4y1B7as",
+    "title": "【直播回放】周五就该轻松一点~ 2023年5月26日20点场",
+    "author": "hanser",
+    "mid": 11073,
+    "pubdate": 1685132573,
+    "pubdate_iso": "2023-05-27 04:22:53",
+    "score": 61,
+    "reasons": [
+     "pub_delta_2d",
+     "up:hanser (official)",
+     "kw:直播回放",
+     "dur_plausible",
+     "catalog:series"
+    ],
+    "duration": 5687,
+    "page": null,
+    "source": "series"
+   },
+   {
+    "bvid": "BV1pk4y1x7KL",
+    "url": "https://www.bilibili.com/video/BV1pk4y1x7KL",
+    "title": "【直播回放】和茶叔一起上VMV音约会~ 2023年5月26日18点场",
+    "author": "hanser",
+    "mid": 11073,
+    "pubdate": 1685125060,
+    "pubdate_iso": "2023-05-27 02:17:40",
+    "score": 61,
+    "reasons": [
+     "pub_delta_2d",
+     "up:hanser (official)",
+     "kw:直播回放",
+     "dur_plausible",
+     "catalog:series"
+    ],
+    "duration": 6423,
+    "page": null,
+    "source": "series"
+   }
+  ]
+ },
+ "2023-06-12": {
+  "bvid": "BV1Ez4y1i7R2",
+  "url": "https://www.bilibili.com/video/BV1Ez4y1i7R2",
+  "title": "【直播回放】走走路 坐坐船 2023年6月13日1点场",
+  "author": "hanser",
+  "mid": 11073,
+  "pubdate": 1686614296,
+  "pubdate_iso": "2023-06-13 07:58:16",
+  "score": 82,
+  "reasons": [
+   "pub_delta_1d",
+   "up:hanser (official)",
+   "kw:直播回放",
+   "title_hint",
+   "dur_plausible",
+   "catalog:series"
+  ],
+  "duration": 7998,
+  "page": null,
+  "source": "catalogue",
+  "confidence": "medium",
+  "alternates": [
+   {
+    "bvid": "BV1Ho4y1T7Wm",
+    "url": "https://www.bilibili.com/video/BV1Ho4y1T7Wm",
+    "title": "【直播回放】让我摸个鱼吧~ 2023年6月9日20点场",
+    "author": "hanser",
+    "mid": 11073,
+    "pubdate": 1686351184,
+    "pubdate_iso": "2023-06-10 06:53:04",
+    "score": 61,
+    "reasons": [
+     "pub_delta_2d",
+     "up:hanser (official)",
+     "kw:直播回放",
+     "dur_plausible",
+     "catalog:series"
+    ],
+    "duration": 12751,
+    "page": null,
+    "source": "series"
+   },
+   {
+    "bvid": "BV18m4y1v7MD",
+    "url": "https://www.bilibili.com/video/BV18m4y1v7MD",
+    "title": "【直播回放】逛逛美泉花园 2023年6月15日17点场",
+    "author": "hanser",
+    "mid": 11073,
+    "pubdate": 1686824628,
+    "pubdate_iso": "2023-06-15 18:23:48",
+    "score": 55,
+    "reasons": [
+     "pub_delta_3d",
+     "up:hanser (official)",
+     "kw:直播回放",
+     "dur_plausible",
+     "catalog:series"
+    ],
+    "duration": 2185,
+    "page": null,
+    "source": "series"
+   },
+   {
+    "bvid": "BV1xh411T7yN",
+    "url": "https://www.bilibili.com/video/BV1xh411T7yN",
+    "title": "【直播回放】到处乱走的旅行 2023年6月15日22点场",
+    "author": "hanser",
+    "mid": 11073,
+    "pubdate": 1686859527,
+    "pubdate_iso": "2023-06-16 04:05:27",
+    "score": 51,
+    "reasons": [
+     "pub_delta_4d",
+     "up:hanser (official)",
+     "kw:直播回放",
+     "dur_plausible",
+     "catalog:series"
+    ],
+    "duration": 3848,
+    "page": null,
+    "source": "series"
+   }
+  ]
+ },
+ "2024-03-19": {
+  "bvid": null,
+  "url": null,
+  "title": "【直播回放】读书回：儿童读物《许愿树》 2024年3月18日20点场",
+  "author": "hanser",
+  "mid": 11073,
+  "pubdate": 1710792617,
+  "pubdate_iso": "2024-03-19 04:10:17",
+  "score": 75,
+  "reasons": [
+   "pub_delta_0d",
+   "up:hanser (official)",
+   "kw:直播回放",
+   "dur_plausible",
+   "catalog:series"
+  ],
+  "duration": 8208,
+  "page": null,
+  "source": "rejected",
+  "confidence": "rejected",
+  "alternates": [
+   {
+    "bvid": "BV1FK42147wP",
+    "url": "https://www.bilibili.com/video/BV1FK42147wP",
+    "title": "【hanser-2024/03/18直播录像】（读书回：儿童读物《许愿树》",
+    "author": "爱爱爱丽丝_",
+    "mid": 45449982,
+    "pubdate": 1710791100,
+    "pubdate_iso": "2024-03-19 03:45:00",
+    "score": 66,
+    "reasons": [
+     "pub_delta_0d",
+     "up:爱爱爱丽丝_",
+     "kw:直播录像",
+     "dur_plausible",
+     "catalog:space"
+    ],
+    "duration": 8111,
+    "page": null,
+    "source": "space"
+   },
+   {
+    "bvid": "BV1QC411b7DM",
+    "url": "https://www.bilibili.com/video/BV1QC411b7DM",
+    "title": "【直播回放】汗流浃背了吗 2024年3月20日20点场",
+    "author": "hanser",
+    "mid": 11073,
+    "pubdate": 1710975969,
+    "pubdate_iso": "2024-03-21 07:06:09",
+    "score": 61,
+    "reasons": [
+     "pub_delta_2d",
+     "up:hanser (official)",
+     "kw:直播回放",
+     "dur_plausible",
+     "catalog:series"
+    ],
+    "duration": 11499,
+    "page": null,
+    "source": "series"
+   },
+   {
+    "bvid": "BV1oJ4m177Dt",
+    "url": "https://www.bilibili.com/video/BV1oJ4m177Dt",
+    "title": "【直播回放】打打打P3R day2 2024年3月21日19点场",
+    "author": "hanser",
+    "mid": 11073,
+    "pubdate": 1711070999,
+    "pubdate_iso": "2024-03-22 09:29:59",
+    "score": 55,
+    "reasons": [
+     "pub_delta_3d",
+     "up:hanser (official)",
+     "kw:直播回放",
+     "dur_plausible",
+     "catalog:series"
+    ],
+    "duration": 16942,
+    "page": null,
+    "source": "series"
+   }
+  ],
+  "rejected_bvid": "BV1kj421d7uf",
+  "rejected_title": "【直播回放】读书回：儿童读物《许愿树》 2024年3月18日20点场",
+  "note": "候选标题日期与直播日期不符，已排除"
+ },
+ "2024-05-20": {
+  "bvid": null,
+  "url": null,
+  "title": "【直播回放】警惕夏季病 2024年5月17日19点场",
+  "author": "hanser",
+  "mid": 11073,
+  "pubdate": 1716037867,
+  "pubdate_iso": "2024-05-18 21:11:07",
+  "score": 61,
+  "reasons": [
+   "pub_delta_2d",
+   "up:hanser (official)",
+   "kw:直播回放",
+   "dur_plausible",
+   "catalog:series"
+  ],
+  "duration": 7645,
+  "page": null,
+  "source": "rejected",
+  "confidence": "rejected",
+  "alternates": [
+   {
+    "bvid": "BV1z7421f7bn",
+    "url": "https://www.bilibili.com/video/BV1z7421f7bn",
+    "title": "【hanser-2024/05/17直播录像】（警惕夏季病",
+    "author": "爱爱爱丽丝_",
+    "mid": 45449982,
+    "pubdate": 1715974200,
+    "pubdate_iso": "2024-05-18 03:30:00",
+    "score": 52,
+    "reasons": [
+     "pub_delta_2d",
+     "up:爱爱爱丽丝_",
+     "kw:直播录像",
+     "dur_plausible",
+     "catalog:space"
+    ],
+    "duration": 7645,
+    "page": null,
+    "source": "space"
+   },
+   {
+    "bvid": "BV15i421X75t",
+    "url": "https://www.bilibili.com/video/BV15i421X75t",
+    "title": "【直播回放】感谢又又又又一年的陪伴～ 2024年5月15日20点场",
+    "author": "hanser",
+    "mid": 11073,
+    "pubdate": 1715806363,
+    "pubdate_iso": "2024-05-16 04:52:43",
+    "score": 51,
+    "reasons": [
+     "pub_delta_4d",
+     "up:hanser (official)",
+     "kw:直播回放",
+     "dur_plausible",
+     "catalog:series"
+    ],
+    "duration": 7759,
+    "page": null,
+    "source": "series"
+   },
+   {
+    "bvid": "BV1Gm421T76z",
+    "url": "https://www.bilibili.com/video/BV1Gm421T76z",
+    "title": "【直播回放】看小樱哇！！ day1 2024年5月24日20点场",
+    "author": "hanser",
+    "mid": 11073,
+    "pubdate": 1716593161,
+    "pubdate_iso": "2024-05-25 07:26:01",
+    "score": 49,
+    "reasons": [
+     "pub_delta_5d",
+     "up:hanser (official)",
+     "kw:直播回放",
+     "dur_plausible",
+     "catalog:series"
+    ],
+    "duration": 10847,
+    "page": null,
+    "source": "series"
+   }
+  ],
+  "rejected_bvid": "BV1rU411Z7FR",
+  "rejected_title": "【直播回放】警惕夏季病 2024年5月17日19点场",
+  "note": "候选标题日期与直播日期不符，已排除"
+ },
+ "2024-06-10": {
+  "bvid": null,
+  "url": null,
+  "title": "【直播回放】随意播胡乱走 2024年6月11日23点场",
+  "author": "hanser",
+  "mid": 11073,
+  "pubdate": 1718145369,
+  "pubdate_iso": "2024-06-12 06:36:09",
+  "score": 61,
+  "reasons": [
+   "pub_delta_2d",
+   "up:hanser (official)",
+   "kw:直播回放",
+   "dur_plausible",
+   "catalog:series"
+  ],
+  "duration": 1278,
+  "page": null,
+  "source": "rejected",
+  "confidence": "rejected",
+  "alternates": [
+   {
+    "bvid": "BV1Z6421f7qf",
+    "url": "https://www.bilibili.com/video/BV1Z6421f7qf",
+    "title": "【直播回放】随意播胡乱走 2024年6月11日21点场",
+    "author": "hanser",
+    "mid": 11073,
+    "pubdate": 1718143380,
+    "pubdate_iso": "2024-06-12 06:03:00",
+    "score": 61,
+    "reasons": [
+     "pub_delta_2d",
+     "up:hanser (official)",
+     "kw:直播回放",
+     "dur_plausible",
+     "catalog:series"
+    ],
+    "duration": 9749,
+    "page": null,
+    "source": "series"
+   },
+   {
+    "bvid": "BV1KD421g7uC",
+    "url": "https://www.bilibili.com/video/BV1KD421g7uC",
+    "title": "【直播回放】下了好久的雨哇 2024年6月5日20点场",
+    "author": "hanser",
+    "mid": 11073,
+    "pubdate": 1717636380,
+    "pubdate_iso": "2024-06-06 09:13:00",
+    "score": 51,
+    "reasons": [
+     "pub_delta_4d",
+     "up:hanser (official)",
+     "kw:直播回放",
+     "dur_plausible",
+     "catalog:series"
+    ],
+    "duration": 8625,
+    "page": null,
+    "source": "series"
+   },
+   {
+    "bvid": "BV1Nr421A7Af",
+    "url": "https://www.bilibili.com/video/BV1Nr421A7Af",
+    "title": "【直播回放】小樱！黑暗力量的钥匙啊！day6 2024年6月5日22点场",
+    "author": "hanser",
+    "mid": 11073,
+    "pubdate": 1717634215,
+    "pubdate_iso": "2024-06-06 08:36:55",
+    "score": 51,
+    "reasons": [
+     "pub_delta_4d",
+     "up:hanser (official)",
+     "kw:直播回放",
+     "dur_plausible",
+     "catalog:series"
+    ],
+    "duration": 6967,
+    "page": null,
+    "source": "series"
+   }
+  ],
+  "rejected_bvid": "BV1Ti421i7Qz",
+  "rejected_title": "【直播回放】随意播胡乱走 2024年6月11日23点场",
+  "note": "候选标题日期与直播日期不符，已排除"
+ },
+ "2024-06-19": {
+  "bvid": null,
+  "url": null,
+  "title": "【直播回放】星星力量的钥匙啊！看小樱 day8 2024年6月18日20点场",
+  "author": "hanser",
+  "mid": 11073,
+  "pubdate": 1718764058,
+  "pubdate_iso": "2024-06-19 10:27:38",
+  "score": 75,
+  "reasons": [
+   "pub_delta_0d",
+   "up:hanser (official)",
+   "kw:直播回放",
+   "dur_plausible",
+   "catalog:series"
+  ],
+  "duration": 13871,
+  "page": null,
+  "source": "rejected",
+  "confidence": "rejected",
+  "alternates": [
+   {
+    "bvid": "BV1Sz421B7Mb",
+    "url": "https://www.bilibili.com/video/BV1Sz421B7Mb",
+    "title": "【直播回放】又来看小樱啦 day7 2024年6月17日21点场",
+    "author": "hanser",
+    "mid": 11073,
+    "pubdate": 1718673805,
+    "pubdate_iso": "2024-06-18 09:23:25",
+    "score": 67,
+    "reasons": [
+     "pub_delta_1d",
+     "up:hanser (official)",
+     "kw:直播回放",
+     "dur_plausible",
+     "catalog:series"
+    ],
+    "duration": 8380,
+    "page": null,
+    "source": "series"
+   },
+   {
+    "bvid": "BV1si421e7BH",
+    "url": "https://www.bilibili.com/video/BV1si421e7BH",
+    "title": "【直播回放】读书回：西方艺术史 1 2024年6月17日20点场",
+    "author": "hanser",
+    "mid": 11073,
+    "pubdate": 1718659720,
+    "pubdate_iso": "2024-06-18 05:28:40",
+    "score": 67,
+    "reasons": [
+     "pub_delta_1d",
+     "up:hanser (official)",
+     "kw:直播回放",
+     "dur_plausible",
+     "catalog:series"
+    ],
+    "duration": 6544,
+    "page": null,
+    "source": "series"
+   },
+   {
+    "bvid": "BV1cS421o7co",
+    "url": "https://www.bilibili.com/video/BV1cS421o7co",
+    "title": "【直播回放】知世就是力量！看小樱 day9 2024年6月20日20点场",
+    "author": "hanser",
+    "mid": 11073,
+    "pubdate": 1718932399,
+    "pubdate_iso": "2024-06-21 09:13:19",
+    "score": 61,
+    "reasons": [
+     "pub_delta_2d",
+     "up:hanser (official)",
+     "kw:直播回放",
+     "dur_plausible",
+     "catalog:series"
+    ],
+    "duration": 17213,
+    "page": null,
+    "source": "series"
+   }
+  ],
+  "rejected_bvid": "BV1bS421d7ZG",
+  "rejected_title": "【直播回放】星星力量的钥匙啊！看小樱 day8 2024年6月18日20点场",
+  "note": "候选标题日期与直播日期不符，已排除"
+ },
+ "2024-08-22": {
+  "bvid": null,
+  "url": null,
+  "title": "【hanser-2024/08/21直播录像】（上一次开心到跳起是啥时候",
+  "author": "爱爱爱丽丝_",
+  "mid": 45449982,
+  "pubdate": 1724262600,
+  "pubdate_iso": "2024-08-22 01:50:00",
+  "score": 66,
+  "reasons": [
+   "pub_delta_0d",
+   "up:爱爱爱丽丝_",
+   "kw:直播录像",
+   "dur_plausible",
+   "catalog:space"
+  ],
+  "duration": 11326,
+  "page": null,
+  "source": "rejected",
+  "confidence": "rejected",
+  "alternates": [
+   {
+    "bvid": "BV17W42197hd",
+    "url": "https://www.bilibili.com/video/BV17W42197hd",
+    "title": "【直播回放】上一次开心到跳起是啥时候 2024年08月21日19点场",
+    "author": "hanser",
+    "mid": 11073,
+    "pubdate": 1724503018,
+    "pubdate_iso": "2024-08-24 20:36:58",
+    "score": 61,
+    "reasons": [
+     "pub_delta_2d",
+     "up:hanser (official)",
+     "kw:直播回放",
+     "dur_plausible",
+     "catalog:series"
+    ],
+    "duration": 11380,
+    "page": null,
+    "source": "series"
+   },
+   {
+    "bvid": "BV1iH4y1F7xc",
+    "url": "https://www.bilibili.com/video/BV1iH4y1F7xc",
+    "title": "【直播回放】hey！ 2024年08月23日20点场",
+    "author": "hanser",
+    "mid": 11073,
+    "pubdate": 1724469115,
+    "pubdate_iso": "2024-08-24 11:11:55",
+    "score": 61,
+    "reasons": [
+     "pub_delta_2d",
+     "up:hanser (official)",
+     "kw:直播回放",
+     "dur_plausible",
+     "catalog:series"
+    ],
+    "duration": 11471,
+    "page": null,
+    "source": "series"
+   },
+   {
+    "bvid": "BV19y411i7wh",
+    "url": "https://www.bilibili.com/video/BV19y411i7wh",
+    "title": "【直播回放】抽谷子！ 2024年08月19日21点场",
+    "author": "hanser",
+    "mid": 11073,
+    "pubdate": 1724092915,
+    "pubdate_iso": "2024-08-20 02:41:55",
+    "score": 61,
+    "reasons": [
+     "pub_delta_2d",
+     "up:hanser (official)",
+     "kw:直播回放",
+     "dur_plausible",
+     "catalog:series"
+    ],
+    "duration": 5974,
+    "page": null,
+    "source": "series"
+   }
+  ],
+  "rejected_bvid": "BV1JQWMeCEej",
+  "rejected_title": "【hanser-2024/08/21直播录像】（上一次开心到跳起是啥时候",
+  "note": "候选标题日期与直播日期不符，已排除"
+ },
+ "2025-09-26": {
+  "bvid": null,
+  "url": null,
+  "title": "“工藤新一”点给“毛利兰”一首《至少还有你》（DV现场点歌 / 20250926）",
+  "author": "中打码の゜",
+  "mid": 45471875,
+  "pubdate": 1758993928,
+  "pubdate_iso": "2025-09-28 01:25:28",
+  "score": 75,
+  "reasons": [
+   "title-date-exact",
+   "pub_delta_2d",
+   "up:中打码の゜",
+   "dur_too_short",
+   "catalog:space"
+  ],
+  "duration": 96,
+  "page": null,
+  "source": "rejected",
+  "confidence": "rejected",
+  "alternates": [
+   {
+    "bvid": "BV1UDnBzsEcj",
+    "url": "https://www.bilibili.com/video/BV1UDnBzsEcj",
+    "title": "“希望究竟在何方”点给“全体卡丘玩家”一首《你看 世界很美》（DV现场点歌 / 20250929）",
+    "author": "中打码の゜",
+    "mid": 45471875,
+    "pubdate": 1759164072,
+    "pubdate_iso": "2025-09-30 00:41:12",
+    "score": 5,
+    "reasons": [
+     "pub_delta_4d",
+     "up:中打码の゜",
+     "dur_too_short",
+     "catalog:space"
+    ],
+    "duration": 98,
+    "page": null,
+    "source": "space"
+   }
+  ],
+  "rejected_bvid": "BV1LinSzeEGm",
+  "rejected_title": "“工藤新一”点给“毛利兰”一首《至少还有你》（DV现场点歌 / 20250926）",
+  "note": "候选标题日期与直播日期不符，已排除"
+ },
+ "2026-08-28": {
+  "bvid": null,
+  "url": null,
+  "title": "【直播回放】花葱事后～ 2026年08月25日21点场",
+  "author": "hanser",
+  "mid": 11073,
+  "pubdate": 1787675499,
+  "pubdate_iso": "2026-08-26 00:31:39",
+  "score": 61,
+  "reasons": [
+   "pub_delta_2d",
+   "up:hanser (official)",
+   "kw:直播回放",
+   "dur_plausible",
+   "catalog:series"
+  ],
+  "duration": 11900,
+  "page": null,
+  "source": "rejected",
+  "confidence": "rejected",
+  "alternates": [
+   {
+    "bvid": "BV1hJ846uEi2",
+    "url": "https://www.bilibili.com/video/BV1hJ846uEi2",
+    "title": "【直播回放】花生与葱花互动d2！ 2026年08月23日11点场",
+    "author": "hanser",
+    "mid": 11073,
+    "pubdate": 1787473060,
+    "pubdate_iso": "2026-08-23 16:17:40",
+    "score": 49,
+    "reasons": [
+     "pub_delta_5d",
+     "up:hanser (official)",
+     "kw:直播回放",
+     "dur_plausible",
+     "catalog:series"
+    ],
+    "duration": 16073,
+    "page": null,
+    "source": "series"
+   },
+   {
+    "bvid": "BV1kY8s6QEjo",
+    "url": "https://www.bilibili.com/video/BV1kY8s6QEjo",
+    "title": "【直播回放】花生与葱花互动d2！ 2026年08月23日10点场",
+    "author": "hanser",
+    "mid": 11073,
+    "pubdate": 1787454559,
+    "pubdate_iso": "2026-08-23 11:09:19",
+    "score": 49,
+    "reasons": [
+     "pub_delta_5d",
+     "up:hanser (official)",
+     "kw:直播回放",
+     "dur_plausible",
+     "catalog:series"
+    ],
+    "duration": 3282,
+    "page": null,
+    "source": "series"
+   },
+   {
+    "bvid": "BV1Ct8161Een",
+    "url": "https://www.bilibili.com/video/BV1Ct8161Een",
+    "title": "【直播回放】花生与葱花互动d1！ 2026年08月22日10点场",
+    "author": "hanser",
+    "mid": 11073,
+    "pubdate": 1787386258,
+    "pubdate_iso": "2026-08-22 16:10:58",
+    "score": 48,
+    "reasons": [
+     "pub_delta_6d",
+     "up:hanser (official)",
+     "kw:直播回放",
+     "dur_plausible",
+     "catalog:series"
+    ],
+    "duration": 21235,
+    "page": null,
+    "source": "series"
+   }
+  ],
+  "rejected_bvid": "BV1VWhj6SEKu",
+  "rejected_title": "【直播回放】花葱事后～ 2026年08月25日21点场",
+  "note": "候选标题日期与直播日期不符，已排除"
+ },
+ "2017-07-18": {
+  "bvid": null,
+  "source": "none",
+  "confidence": "none",
+  "score": 0
+ },
+ "2017-07-25": {
+  "bvid": null,
+  "source": "none",
+  "confidence": "none",
+  "score": 0
+ }
+}

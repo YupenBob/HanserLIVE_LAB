@@ -1,0 +1,62 @@
+# ---- caches / env ----
+tools/.cache/
+tools/__pycache__/
+__pycache__/
+*.pyc
+tools/.bili_cookies.json
+tools/.bili_cookie*.json
+
+# ---- raw crawl data (large; regenerate with the scripts) ----
+data/pages/
+data/raw/
+data/bili_matches.before_deep.json
+data/bili_matches.backup.json
+data/dates_remote.json
+
+# ---- scratch / debug ----
+*.log
+*.out
+*.err
+crawl_local.out
+crawl_local.err
+match_online.out
+match_online.err
+js/
+*.html
+altcha.min.js
+bm.js
+captcha_dump.txt
+inspect*.txt
+inspect*.json
+sample*.txt
+md_sample.txt
+deep*.txt
+noexact.txt
+lowmatches.txt
+online_todo.txt
+stats_tmp.txt
+final_check.txt
+xlsxcheck.txt
+validate.txt
+integrity.txt
+trcheck.txt
+dayscheck.txt
+seriescheck.txt
+early.txt
+neighbor.txt
+times.txt
+appxB.txt
+probe.sh
+timing.sh
+torii_probe.sh
+captcha_probe.sh
+remote_crawl.py
+remote_crawl2.py
+remote_worker.py
+
+# Excel lock files
+output/~$*
+~$*
+
+# duplicate of output/archive.json
+data/archive.json
