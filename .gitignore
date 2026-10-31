@@ -60,3 +60,5 @@ output/~$*
 
 # duplicate of output/archive.json
 data/archive.json
+
+qa1.txt
